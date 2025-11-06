@@ -1,6 +1,6 @@
 # eScience Conference Series Website Template
 
-This is a template for the eScience conferece websites. To start using this template, please **fork** this repository into a new repository at the [escience-conference](https://github.com/escience-conference) GitHub organization in which the repository name should be the year of the conference (e.g., `2022`).
+This is a template for the eScience conference websites. To start using this template, please **fork** this repository into a new repository at the [escience-conference](https://github.com/escience-conference) GitHub organization in which the repository name should be the year of the conference (e.g., `2022`).
 
 ## Customizing the website
 
