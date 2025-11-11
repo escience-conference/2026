@@ -47,4 +47,4 @@ Please adhere to the following formatting guidelines for workshop proposals. You
 
 ### Contact information
 
-Email contact: [workshops@escience-conference.org](mailto:workshops@escience-conference.org)
+Workshop Chairs: [workshops@escience-conference.org](mailto:workshops@escience-conference.org)
