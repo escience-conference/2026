@@ -3,6 +3,10 @@
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
+<h2>22nd IEEE International eScience Conference (eScience’26) Call for Papers</h2>
+
+The 22nd IEEE International eScience Conference (eScience’26) will be held in Naples from September 28 to October 2, 2026.
+
 eScience studies, enacts, and improves the ongoing process of innovation in computationally intensive or data-intensive research methods; typically, this is carried out collaboratively, often using distributed computing infrastructure. eScience encompasses all fields of research and addresses all stages of the research lifecycle, from formulation of the research questions, through large-scale simulations and data analytics, scientific discovery, up to long-term sharing, publication, reusing, and reapplying of the results, data, as well as the relevant tools, processes, and knowledge.
 
 eScience’26 welcomes paper submissions for its technical program. The conference will be an interdisciplinary forum for researchers, developers, and users of applications and enabling IT technologies. The conference welcomes conceptualization, implementation, and experience contributions that will allow and drive innovation in data- and compute-intensive research. eScience covers all disciplines, from the physical and biological sciences to the social sciences, arts, and humanities. Infrastructure and technologies can span a broad spectrum, including HPC, cloud, IoT, and artificial intelligence and machine learning methods.
