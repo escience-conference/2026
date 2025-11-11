@@ -3,69 +3,48 @@
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
-The 19th IEEE eScience Conference will be held in **Limassol, Cyprus on October 9-13, 2023**. eScience 2023 welcomes proposals for workshops to be co-located with the main conference on **Monday, October 9 and Tuesday, October 10, 2023**.
+<h2>Call for Workshops</h2>
+The 22nd IEEE International eScience Conference (eScience’26) will be held in **Naples, Italy from September 28 to October 2, 2026**.
 
-The eScience conference has a long history of hosting well-attended workshops broadly related to eScience and co-located with the main conference. These workshops share the goal of bringing together international and interdisciplinary research communities, developers, and users of eScience applications and enabling IT technologies.
+eScience studies, enacts, and improves the ongoing process of innovation in computationally intensive or data-intensive research methods; typically, this is carried out collaboratively, often using distributed computing infrastructure. eScience encompasses all fields of research and addresses all stages of the research lifecycle, from formulation of the research questions, through large-scale simulations and data analytics, scientific discovery, up to long-term sharing, publication, reusing, and reapplying of the results, data, as well as the relevant tools, processes, and knowledge.
+Workshops offer a platform for valuable discussions among researchers and practitioners, focusing on key topics and emerging research areas in all aspects of eScience and its associated technologies, applications, algorithms, and tools, with a strong focus on practical solutions and open challenges. Ideal papers involve the interplay between applications and infrastructure technologies, with an emphasis on novelty in one or both.
+Workshops typically feature a blend of invited talks, peer-reviewed papers, panel discussions, and work-in-progress presentations. Workshop organizers are encouraged to structure their sessions for an audience of approximately 20-40 participants, with flexibility for either a full-day or half-day format, depending on interest and space availability.
+We welcome proposals for workshops on new, innovative topics as well as submissions to continue successful seminars from previous years. Note that proceedings of eScience workshops will be published by the IEEE in dedicated proceedings. The selected workshops will be held on the **first day of the conference (September 28)**.
 
-Workshops play a crucial role in the conference by providing an opportunity for researchers and practitioners to present their work in a more focused way than the conference itself and to have in-depth discussions of particular topics of interest to the community. Workshops may be focused on any eScience-related topic including, but not limited to, interdisciplinary and translational research, continuum computing infrastructures, data science, sustainability, and education.
+### Workshops Submission Process
 
-eScience 2023 invites authors of workshop proposals to consider a diverse group of organizers, paper reviewers, and keynote speakers in terms of race/ethnicity, gender, and geographic areas.
+Please email your proposal to the Workshops chairs at [workshops@escience-conference.org](mailto:workshops@escience-conference.org).
+The submissions must conform to the Submission Guidelines.
 
-eScience 2023 accepts two types of workshop proposals: 
-1. workshops with peer-reviewed papers and proceedings, and 
-2. workshops or mini-symposia with invited talks and no proceedings.
+### Workshop Proposals Formatting Guidelines
 
-All eScience 2023 workshops are expected to have a half-day duration.
+Please adhere to the following formatting guidelines for workshop proposals. Your proposal should be submitted as a single PDF document containing 2 to 4 pages and should include the following information:
 
-### Workshops with peer-reviewed papers and proceedings
-
-The proceedings of workshops with peer-reviewed papers will be included in the eScience 2023 proceedings to be published by the IEEE Computer Society Press, USA and made available online through the IEEE Digital Library, if the following criteria are followed:
-
-- The solicitation for papers must be open.
-- All the papers must be peer-reviewed by a qualified Program Committee.
-- The workshops Program Committee must have an appropriate size for the expected number of submissions.
-- The workshop proceedings must have at least 4 papers at a length of at least 6 pages and no longer than 10 pages (including figure, tables, and citations) in the IEEE conference format.
-- For each paper selected for publication, at least one of the authors must be registered to eScience 2023 to present the paper in person.
-
-Workshop organizers are responsible for establishing a program committee and a paper submission system, collecting and evaluating submissions, notifying authors of acceptance or rejection in due time, ensuring a transparent and fair selection process, organizing selected papers into sessions, and assigning session chairs. Proposals showing clear focus and objectives in areas of emerging or developing interest will be prioritized.
-
-Workshop proposals should be submitted via email to [workshops@escience-conference.org](mailto:workshops@escience-conference.org) and not exceed 5 pages in length. 
-
-Proposals should include the following information:
-
-- Workshop name and acronym.
-- Workshop description, including its focus and goals (max. 500 words).
-- Names and affiliations of the organizers and tentative composition of the committee (we invite the authors of the proposal to consider a diverse group of organizers and committee members in terms of e.g., race, ethnicity, gender, geographic areas, etc.).
-- Expected number of submissions/accepted papers.
-- Prior history of this workshop, if any.
-
-### Workshops or mini-symposia with invited talks and no proceedings
-
-Workshop organizers are responsible for inviting the speakers, establishing a program in due time, organizing the selected talks into sessions, and assigning session chairs. Proposals gathering experts in areas of emerging or developing interest will be prioritized.
-
-Each speaker must be registered to eScience 2023 to present in a session.
-
-Workshop proposals should be submitted via email to [workshops@escience-conference.org](mailto:workshops@escience-conference.org) and not exceed 5 pages in length. 
-
-Proposals for workshops or mini-symposia with invited talks only should include the following information:
-
-- Workshop name and acronym
-- Workshop description (including its focus and goals) (max. 500 words)
-- Names and affiliations of the organizers
-- Expected number of talks and their length
-- Tentative list of speakers and talk titles 
-- Prior history of this workshop, if any
+- Workshop name: Provide the full workshop title and its acronym.
+- Duration: Specify whether the workshop is intended to be a full-day or a half-day.
+- Workshop Theme and Key Topics: Describe the overarching theme of the workshop and its core topics. Emphasize the theme's focused nature.
+- Relevance to eScience: Highlight how the proposed workshop complements the main eScience program.
+- The structure of the workshop (peer-reviewed articles, invited articles, invited talks, panels, etc.).
+- Workshop Structure: Explain the workshop’s structure, including peer-reviewed articles, invited talks, panels, and other components.
+- Invited Speakers and Panelists: Propose the names of potential invited speakers and panelists and describe how they will contribute to the workshop’s discussions.
+- Program Committee (Optional): Provide a tentative list of program committee members if available.
+- Review Process: Detail the review process for workshop paper acceptance.
+- Call for Papers (Optional): If applicable, include a preliminary version of the Call for Papers (CFP).
+- Paper Publication: Specify the type and length of papers to be accepted if the workshop plans to publish papers.
+- Intended Audience: Outline plans for attracting submissions and workshop attendees.
+- Attraction and Engagement: A plan for attracting submissions and attendees to the workshop.
+- Organizer Bios: Briefly introduce the workshop organizers with their biographical information.
+- Previous Workshop Data (if applicable): Share details of past workshop editions, including attendance, submitted papers, and accepted papers.
+- Workshop Setup: Accepted workshops should be prepared to establish a dedicated website. If you plan to use a paper submission process with peer review, provide the submission link.
 
 ### Key dates
 
-- Workshop Submissions due: **Friday, <strike>February 10, 2023</strike> <span style="color: red">February 24, 2023</span>**
-- Workshop Acceptance Notification: **Friday, <strike>February 24, 2023</strike> <span style="color: red">March 10, 2023</span>**
-- All Camera-ready Submissions due: **Friday, July 21, 2023**
-- Final list of talks / agenda for no-proceedings workshops: **Friday, July 21, 2023**
-- Workshops: **October 9** and **October 10, 2023**
+- Workshops proposal deadline: **Monday, March 9, 2026**
+- Notification of acceptance: **Monday, March 23, 2026**
+- Camera-ready due: **Monday, August 7, 2026**
+- Conference: **September 28 - October 2, 2026**
+
 
 ### Contact information
 
-Workshop Chairs (contact: [workshops@escience-conference.org](mailto:workshops@escience-conference.org)):
-- Fred Suter, Oak Ridge National Laboratory, USA
-- Iraklis Klampanos, National Centre for Scientific Research “Demokritos”, Greece 
+Email contact: [workshops@escience-conference.org](mailto:workshops@escience-conference.org)
