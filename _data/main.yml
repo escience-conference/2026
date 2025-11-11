@@ -27,9 +27,9 @@ description: >
 contents:
   calls:
     papers: true
-    workshops: false
-    tutorials: false
-    posters: false
+    workshops: true
+    tutorials: true
+    posters: true
   program:
     timetable: false
     keynotes: false
