@@ -3,7 +3,7 @@
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
-<h2>Call for Posters<h2>
+<h2>Call for Posters</h2>
 
 The 22nd IEEE International eScience Conference (eScience’26) to be held in **Naples, Italy on September 28-October 2, 2026**, welcomes poster submissions for the technical program.
 
