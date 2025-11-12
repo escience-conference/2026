@@ -12,9 +12,19 @@ roles:
   # - Student Volunteer Chair
 
 organizers:
-  - name: 
+  - name: Raffaele Montella
     role: General Chair
-    institution: 
-    photo: 
+    institution: University of Naples “Parthenope"
+    photo:
+
+  - name: Sandro Luigi Fiore
+    role: Program Chairs
+    institution: University of Trieste
+    photo:
+
+  - name: Sandra Gesing
+    role: Program Chairs
+    institution: US Research Software Engineer Association and Center of Excellence for Science Gateways
+    photo:
 
  
