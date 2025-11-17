@@ -9,22 +9,33 @@ roles:
   - Media Chairs
   - Web Chair
   - Publicity Chair
+  - Treasurer
   # - Student Volunteer Chair
 
 organizers:
   - name: Raffaele Montella
     role: General Chair
-    institution: University of Naples “Parthenope"
-    photo:
+    institution: University of Naples "Parthenope"
+    photo: images/organizers/eScience-26-local-organizers-raffaele-montella.png
 
   - name: Sandro Luigi Fiore
     role: Program Chairs
     institution: University of Trieste
-    photo:
+    photo: images/organizers/eScience-26-local-organizers-sandro-luigi-fiore.png
 
   - name: Sandra Gesing
     role: Program Chairs
     institution: US Research Software Engineer Association and Center of Excellence for Science Gateways
-    photo:
+    photo: images/organizers/eScience-26-local-organizers-sandra-gesing.png
+
+  - name: Diana Di Luccio
+    role: Treasurer
+    institution: University of Naples "Parthenope"
+    photo: images/organizers/eScience-26-local-organizers-diana-di-luccio.png
+
+  - name: Federica Izzo
+    role: Web Chair
+    institution:
+    photo: images/organizers/eScience-26-local-organizers-federica-izzo.png
 
  
