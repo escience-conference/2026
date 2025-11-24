@@ -40,6 +40,7 @@ contents:
   meeting:
     registration: false
     venue: true
+    accommodation: true
     lodging: false
     thingstodo: false
     virtual: false
