@@ -41,7 +41,7 @@ contents:
     registration: false
     venue: true
     accommodation: true
-    lodging: true
+    lodging: false
     thingstodo: false
     virtual: false
     quickstart: false
