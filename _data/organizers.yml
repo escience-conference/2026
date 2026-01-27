@@ -1,12 +1,13 @@
 roles:
   - General Chair
   - Program Chairs
+  - Local Chairs
   - Track Chairs
   - Workshop Chairs
   - Tutorial Chairs
   - Poster Chairs
-  - Proceedings Chair
-  - Media Chairs
+  - Proceedings Chairs
+  - Media Chair
   - Web Chair
   - Publicity Chair
   - Treasurer
@@ -30,13 +31,40 @@ organizers:
 
   - name: Diana Di Luccio
     role: Treasurer
-    institution: ARPA Campania
+    institution: ARPA Campania, Italy
     photo: eScience-26-local-organizers-diana-di-luccio.png
 
   - name: Federica Izzo
     role: Web Chair
     institution:
     photo: eScience-26-local-organizers-federica-izzo.png
+
+  - name: Marco Lapegna
+    role: Local Chairs
+    institution: University of Naples Federico II, Italy
+    photo: eScience-26-local-organizers-marco-lapegna.png
+
+  - name: Dante Domizzi
+    role: Poster Chairs
+    institution: University Carlos III of Madrid, Spain
+    photo: eScience-26-local-organizers-dante-domizzi.png
+
+  - name: Iacopo Colonnelli
+    role: Workshop Chairs
+    institution: University of Turin, Italy
+    photo: eScience-26-local-organizers-iacopo-colonnelli.png
+
+  - name: Daniela Cassol
+    role: Tutorial Chairs
+    institution: Lawrence Berkeley National Laboratory, USA
+    photo: eScience-26-local-organizers-daniela-cassol.png
+
+  - name: Diego Romano
+    role: Proceedings Chairs
+    institution: National Research Council, Italy
+    photo: eScience-26-local-organizers-diego-romano.png
+
+
 
 
 
