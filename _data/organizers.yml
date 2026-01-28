@@ -7,6 +7,7 @@ roles:
   - Tutorial Chairs
   - Poster Chairs
   - Proceedings Chairs
+  - Local Arrangement Chair
   - Media Chair
   - Web Chair
   - Publicity Chair
@@ -63,6 +64,16 @@ organizers:
     role: Proceedings Chairs
     institution: National Research Council, Italy
     photo: eScience-26-local-organizers-diego-romano.png
+
+  - name: Emanuel di Nardo
+    role: Local Arrangement Chair
+    institution: University of Naples "Parthenope", Italy
+    photo: eScience-26-local-organizers-emanuel-di-nardo.png
+
+  - name: Valérie Hayot-Sasson
+    role: Poster Chairs
+    institution: École de technologie supérieure, Québec
+    photo: eScience-26-local-organizers-valerie-hayot-sasson.png
 
 
 
