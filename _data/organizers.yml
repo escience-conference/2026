@@ -1,5 +1,5 @@
 roles:
-  - General Chair
+  - General Chairs
   - Program Chairs
   - Local Chairs
   - #Track Chairs
@@ -16,12 +16,12 @@ roles:
 
 organizers:
   - name: Ana Gainaru
-    role: General Chair
+    role: General Chairs
     institution: Oak Ridge National Laboratory, USA
     photo: eScience-26-local-organizers-ana-gainaru.png
 
   - name: Raffaele Montella
-    role: General Chair
+    role: General Chairs
     institution: University of Naples "Parthenope", Italy
     photo: eScience-26-local-organizers-raffaele-montella.png
 
