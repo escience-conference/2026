@@ -2,19 +2,24 @@ roles:
   - General Chair
   - Program Chairs
   - Local Chairs
-  - Track Chairs
+  - #Track Chairs
   - Workshop Chairs
   - Tutorial Chairs
   - Poster Chairs
   - Proceedings Chairs
   - Local Arrangements Chair
-  - Media Chair
+  - #Media Chair
   - Web Chair
-  - Publicity Chair
+  - #Publicity Chair
   - Treasurer
   # - Student Volunteer Chair
 
 organizers:
+  - name: Ana Gainaru
+    role: General Chair
+    institution: Oak Ridge National Laboratory, USA
+    photo: eScience-26-local-organizers-ana-gainaru.png
+
   - name: Raffaele Montella
     role: General Chair
     institution: University of Naples "Parthenope", Italy
