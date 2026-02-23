@@ -39,8 +39,8 @@ Please adhere to the following formatting guidelines for workshop proposals. You
 
 ### Key dates
 
-- Workshops proposal deadline: **Monday, March 9, 2026**
-- Notification of acceptance: **Monday, March 23, 2026**
+- Workshops proposal deadline: **Monday, March 23, 2026**
+- Notification of acceptance: **Monday, March 30, 2026**
 - Camera-ready due: **Monday, August 7, 2026**
 - Conference: **September 28 - October 2, 2026**
 
