@@ -41,7 +41,8 @@ Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-colum
 
 Submitted papers may also be posted on preprint servers (e.g., arXiv).
 
-At least one author of each accepted paper must register as an author at the full registration rate. Each author registration applies to only one accepted submission. Note. The use of artificial intelligence (AI)-generated content shall be disclosed in the acknowledgements section of the paper. The AI system used shall be identified, and specific sections of the paper that use AI-generated content shall be determined, accompanied by a brief explanation regarding the level at which the AI system was used to generate the content. Authors are fully responsible for all content they submit. For more information, please click here [https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/](...).
+At least one author of each accepted paper must register as an author at the full registration rate. Each author registration applies to only one accepted submission. Note. The use of artificial intelligence (AI)-generated content shall be disclosed in the acknowledgements section of the paper. The AI system used shall be identified, and specific sections of the paper that use AI-generated content shall be determined, accompanied by a brief explanation regarding the level at which the AI system was used to generate the content. Authors are fully responsible for all content they submit. For more information, please click here 
+[https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/](https://conferences.ieeeauthorcenter.ieee.org/author-ethics/guidelines-and-policies/submission-policies/).
 
 ### Awards
 
