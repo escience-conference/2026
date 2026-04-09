@@ -1,9 +1,21 @@
-- name: '3rd Workshop on Reproducible Workflows, Data Management, and Security (ReWorDS 2023)'
+- name: '1st Workshop on Agentic AI for Large-scale Science (AGENT4SC)'
   abstract: >
-            Emerging and future computational workloads are combining traditional HPC applications with tools and techniques from the scale-out data analytics and machine learning community. Getting these technologies to co-exist and interoperate to advance scientific discovery is a daunting task with few known good solutions. In general, constructing these workflows has the potential to create pitfalls and incompatibilities that limit adoption.
+            AGENT4SC focuses on the systems foundations required to operationalize agent decisions that directly affect
+    allocations, system health, data movement, energy consumption, and scientific outcomes. This demands integrated
+    data and metadata infrastructures spanning scalable databases, vector stores, caching layers, provenance services,
+    and knowledge graphs, all designed to remain performant and auditable under high concurrency. At scale, even
+    minor errors, hallucinations, or blind spots can escalate into megawatt-hour waste, irreproducibility, and
+    compromised scientific validity. Therefore, this workshop provides a forum to advance scalable architectures,
+    cross-continuum coordination, evaluation frameworks, verification and mitigation strategies, provenance and
+    observability mechanisms, performance analysis, and lessons from real deployments. The workshop builds on
+    active efforts in agentic AI for science across national laboratories, academia, and industry, reflecting an emerging
+    and rapidly growing community.
+  url: #
 
-            This workshop seeks to explore ideas and experiences on what kinds of infrastructure developments can improve upon the state of the art. Explorations of component packaging via containers and virtual machines, automation scripting, deployment,  portability builds, and system support for these and other relevant activities are key infrastructure.
-  url: https://sites.google.com/vols.utk.edu/rewords23/home
+- name: 'AI Capability Uplift That Actually Works: International Case Studies from Academia, Government, Industry, and Faith-based Organisations (AI-CAPWORK)'
+  abstract: >
+            AI tools, models, and workflows are evolving faster than most organisations can adapt to their people, processes, technology stacks, and cultures. Technical training alone (for example, learning a specific model or tool) rarely delivers lasting productivity gains unless it is embedded into real workflows, decision making, governance, leadership, and organisational culture. This workshop examines what actually works in AI and data capability uplift programs—and what does not—through real world case studies from universities, government (at all levels), small and medium enterprises, the not-for-profit sector, and different religious congregations \ with examples spanning Australia, and Europe this workshop provides a truly international perspective. We will explore the gap between what leaders think their teams are doing with AI and what staff actually feel confident and supported to do. This will include the cultural and psychological conditions that make uplift efforts succeed or fail, the reusable lessons from building these programs across sectors so we stop reinventing the wheel, measure what matters, and better understand how the stories leaders and colleagues tell during AI transformation shape engagement, culture, and outcomes.
+  url: #
 
 # - name: 'Software Engineering for eScience 2023 (SE4eScience23)'
 #   abstract: >
@@ -14,54 +26,52 @@
 #             learned (positive or negative) from the development of eScience software.
 #   url: https://se4science.org/workshops/se4escience23/index.htm
 
-- name: 'Research Software Engineers in eScience: Sustainable RSE Ecosystems within eScience (RSE-eScience-2023)'
+- name: 'Data-Driven and Physics-Informed eScience for Atmospheric Modelling and Air Quality'
   abstract: >
-            Research Software Engineers (RSEs) combine professional software engineering expertise 
-            with an intimate understanding of research. They are uniquely placed in the eScience 
-            ecosystem to ensure development of sustainable research environments and reproducible 
-            research outputs. However, the position of RSEs within eScience is still not fully 
-            established, with many RSEs not gaining proper recognition for their contributions and 
-            struggling to find a way to progress their careers. The theme of this workshop is 
-            sustainable RSE ecosystems, encompassing both the role of RSEs in sustainable eScience 
-            and making the RSE ecosystem itself more sustainable. We intend for this workshop to 
-            raise awareness of the concept of research software engineers and research software 
-            engineering (RSEng), as well as to provide an opportunity for RSEs and those interested 
-            in RSEng to talk about issues and solutions. Anyone involved or interested in RSEng is 
-            welcome to attend.
-  url: https://us-rse.org/rse-escience-2023/
-
-- name: '3rd Workshop on E-science ReseaRch leading tO negative Results (ERROR 2023)'
-  abstract: > 
-            ERROR 2023 provides the e-Science community a dedicated and active forum for exchanging 
-            cross-discipline experiences on research leading to negative results and lessons learned. 
-            The workshop covers both applications and systems areas, including topics in research 
-            methodology, reproducibility, the applications/systems interface, social problems in 
-            computational science, and other relevant areas.
-  url: https://error-workshop.org/
+            The workshop focuses on the integration of data-driven methodologies,
+    high-performance computing (HPC), and physics-based models for atmospheric
+    science applications, with particular emphasis on air quality, climate interactions, and
+    anthropogenic impacts.
+    In recent years, atmospheric modelling has undergone a paradigm shift driven by the
+    availability of large datasets (satellite observations, sensor networks), advances in
+    machine learning, and the development of scalable computing infrastructures. These
+    developments have enabled the emergence of hybrid approaches that combine numerical
+    modelling, statistical inference, and artificial intelligence, leading to improved
+    predictive capabilities and new scientific insights.
+    The workshop aims to explore this transition from traditional modelling frameworks to
+    integrated eScience approaches, emphasizing reproducibility, scalability, and
+    interoperability.
+  url: #
  
-- name: '4th Global Research Platform (4GRP) Workshop '
-  abstract: > 
-            Note: The 4th Global Research Platform (4GRP) Workshop is a separate event that is co-located with eScience. 
-            4GRP is an open event and eScience registrants not attending eScience workshops or tutorials are welcome to register for 4GRP instead.          
-  url: https://www.theglobalresearchplatform.net/
-
-- name: 'IEEE International Workshop on Artificial Intelligence for Health (AI4Health 2023)'
+- name: '1st Workshop on Graph Data Science-Driven Knowledge Analysis (GDSKA’26)'
   abstract: >
-            The workshop on Artificial Intelligence for Health (AI4Health 2023) aims at bringing together researchers from academia, industry, government, and medical centers to present state-of-the-art and discuss the latest advances in the emerging area of the use of artificial intelligence and soft computing techniques, be they black boxes or explanation-based, to signals, images, and data in the fields of medicine, healthcare, and wellbeing. AI4Health is expected to cover the whole range of theoretical and practical aspects, technologies, and systems related to the application of artificial intelligence and soft computing methodologies to issues such as machine learning, deep learning, knowledge discovery, decision support, classification, regression, forecasting, optimization, and feature selection in the healthcare and wellbeing domain.
-  url: https://www.ai4health.icar.cnr.it/
+            Graph-based technologies, including knowledge graphs, ontologies, graph databases, graph analytics, and graph machine learning, are emerging as powerful unifying abstractions across all stages of the scientific research lifecycle. This workshop explores how these technologies can be applied to represent and integrate knowledge, model workflow dependencies, enable semantic interoperability across heterogeneous datasets, and support resource discovery, reasoning, and orchestration in distributed computing environments, including HPC, Cloud, Edge, and IoT infrastructures spanning the computing continuum.
+  url: #
 
-- name: '1st Workshop on cItizeN Science engagemenT based on Ict soLutions (INSTIL 2023)'
+- name: 'Modelling and Simulation at the Convergence of HPC, AI, and Data-Driven Science (HPCMS 2026)'
   abstract: >
-            This workshop invites researchers who have or are interested to invested significant 
-            efforts in the design and development of ICT-based tools, software, serious games, 
-            eScience applications, and solutions to engage the general public in science. The 
-            general goal of the workshop is to act as a community venue to convey multidisciplinary
-            experienes in exploring ICT solutions to raise awareness, engage and empower citizens
-            and stakeholders in science with concrete eScience tools.
+            The development of computational models capable of simulating the behaviour and evolution of natural and engineered systems remains a cornerstone of modern science and engineering. Today, this paradigm is undergoing a profound transformation driven by the convergence of High Performance Computing (HPC), data-intensive science, and artificial intelligence.
+            Within this evolving landscape, the HPCMS Workshop at eScience 2026 aims to bring together a multidisciplinary community of researchers, developers, and practitioners working at the intersection of modelling, simulation, and advanced computing. The workshop will provide a platform to discuss emerging methodologies, software ecosystems, and best practices for scalable, portable, and sustainable computational science.
+  url: #
 
+- name: 'cItizeN Science engagemenT based on Ict soLutions (INSTIL 2026)'
+  abstract: >
+            The INSTIL workshop aims to provide a venue for researchers and practitioners who design
+    and develop ICT-based tools and eScience solutions supporting citizen engagement in
+    scientific activities. The workshop will explore digital infrastructures for participation,
+    collaborative platforms for data collection and analysis, and innovative approaches to science
+    communication and stakeholder engagement. A particular focus of the workshop will be on
+    applications related to environmental monitoring, climate science, and climate change,
+    where citizen participation and distributed sensing infrastructures can significantly
+    complement traditional scientific observations.
   url: http://www.instil-science.eu/
 
-- name: "Advancing research software policy: A participatory workshop (AdvancingRSP-2023)"
+- name: 'Workshop on Research Software Supply Chain Security (RS3)'
   abstract: >
-            This workshop is part of a project supported by the Sloan Foundation, aimed at cultivating better research software policies. Learn about key developments in research software policy, share your experiences with others, and get involved in efforts to promote progress in this field. This workshop will provide concrete steps that participants can take to improve policies in areas such as establishing career paths, incentivizing contributions to public goods, and increasing diversity in the development community. 
-  url: https://forms.gle/adL8Pw86Aypr6Xxr6
+            Modern scientific discovery depends on complex computational infrastructure composed of research software, dependencies, and distributed computing environments. These interconnected artifacts and actors form the research software supply chain (RSSC), a critical yet poorly understood component of the scientific cyberinfrastructure. While software supply chain security has received growing attention in industry, its implications for scientific infrastructure — where usability, openness, and rapid experimentation are essential — remain largely unexplored. This workshop will convene research software engineers, scientists, and cybersecurity researchers to examine the RSSC as a component of scientific infrastructure. Through peer-reviewed papers, panels, and interactive sessions, participants will share operational experiences, discuss usability–security tradeoffs, and identify emerging challenges such as autonomous scientific agents and trust in computational results. The workshop will generate a roadmap identifying technical, organizational, and community interventions needed to secure research software supply chain across the scientific ecosystem.
+  url: #
+
+- name: '2nd Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management (WISDOM 2026)'
+  abstract: >
+            Scientific automation is at the forefront of enabling faster, more reproducible discoveries in AI, exascale computing, and distributed environments. The WISDOM workshop provides a platform for researchers, developers, and practitioners to discuss advances in autonomous workflow design, intelligent data management, and scalable and agentic automation techniques. We are especially interested in innovative methods that integrate AI/ML to enhance the flexibility, efficiency, and reliability of scientific processe across heterogeneous environments.
+  url: #
