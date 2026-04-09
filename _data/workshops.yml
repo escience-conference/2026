@@ -1,15 +1,6 @@
 - name: '1st Workshop on Agentic AI for Large-scale Science (AGENT4SC)'
   abstract: >
-            AGENT4SC focuses on the systems foundations required to operationalize agent decisions that directly affect
-    allocations, system health, data movement, energy consumption, and scientific outcomes. This demands integrated
-    data and metadata infrastructures spanning scalable databases, vector stores, caching layers, provenance services,
-    and knowledge graphs, all designed to remain performant and auditable under high concurrency. At scale, even
-    minor errors, hallucinations, or blind spots can escalate into megawatt-hour waste, irreproducibility, and
-    compromised scientific validity. Therefore, this workshop provides a forum to advance scalable architectures,
-    cross-continuum coordination, evaluation frameworks, verification and mitigation strategies, provenance and
-    observability mechanisms, performance analysis, and lessons from real deployments. The workshop builds on
-    active efforts in agentic AI for science across national laboratories, academia, and industry, reflecting an emerging
-    and rapidly growing community.
+            AGENT4SC focuses on the systems foundations required to operationalize agent decisions that directly affect allocations, system health, data movement, energy consumption, and scientific outcomes. This demands integrated data and metadata infrastructures spanning scalable databases, vector stores, caching layers, provenance services, and knowledge graphs, all designed to remain performant and auditable under high concurrency. At scale, even minor errors, hallucinations, or blind spots can escalate into megawatt-hour waste, irreproducibility, and compromised scientific validity. Therefore, this workshop provides a forum to advance scalable architectures, cross-continuum coordination, evaluation frameworks, verification and mitigation strategies, provenance and observability mechanisms, performance analysis, and lessons from real deployments. The workshop builds on active efforts in agentic AI for science across national laboratories, academia, and industry, reflecting an emerging and rapidly growing community.
   url: #
 
 - name: 'AI Capability Uplift That Actually Works: International Case Studies from Academia, Government, Industry, and Faith-based Organisations (AI-CAPWORK)'
@@ -28,19 +19,7 @@
 
 - name: 'Data-Driven and Physics-Informed eScience for Atmospheric Modelling and Air Quality'
   abstract: >
-            The workshop focuses on the integration of data-driven methodologies,
-    high-performance computing (HPC), and physics-based models for atmospheric
-    science applications, with particular emphasis on air quality, climate interactions, and
-    anthropogenic impacts.
-    In recent years, atmospheric modelling has undergone a paradigm shift driven by the
-    availability of large datasets (satellite observations, sensor networks), advances in
-    machine learning, and the development of scalable computing infrastructures. These
-    developments have enabled the emergence of hybrid approaches that combine numerical
-    modelling, statistical inference, and artificial intelligence, leading to improved
-    predictive capabilities and new scientific insights.
-    The workshop aims to explore this transition from traditional modelling frameworks to
-    integrated eScience approaches, emphasizing reproducibility, scalability, and
-    interoperability.
+            The workshop focuses on the integration of data-driven methodologies, high-performance computing (HPC), and physics-based models for atmospheric science applications, with particular emphasis on air quality, climate interactions, and anthropogenic impacts. In recent years, atmospheric modelling has undergone a paradigm shift driven by the availability of large datasets (satellite observations, sensor networks), advances in machine learning, and the development of scalable computing infrastructures. These developments have enabled the emergence of hybrid approaches that combine numerical modelling, statistical inference, and artificial intelligence, leading to improved predictive capabilities and new scientific insights. The workshop aims to explore this transition from traditional modelling frameworks to integrated eScience approaches, emphasizing reproducibility, scalability, and interoperability.
   url: #
  
 - name: '1st Workshop on Graph Data Science-Driven Knowledge Analysis (GDSKA’26)'
@@ -56,14 +35,7 @@
 
 - name: 'cItizeN Science engagemenT based on Ict soLutions (INSTIL 2026)'
   abstract: >
-            The INSTIL workshop aims to provide a venue for researchers and practitioners who design
-    and develop ICT-based tools and eScience solutions supporting citizen engagement in
-    scientific activities. The workshop will explore digital infrastructures for participation,
-    collaborative platforms for data collection and analysis, and innovative approaches to science
-    communication and stakeholder engagement. A particular focus of the workshop will be on
-    applications related to environmental monitoring, climate science, and climate change,
-    where citizen participation and distributed sensing infrastructures can significantly
-    complement traditional scientific observations.
+            The INSTIL workshop aims to provide a venue for researchers and practitioners who design and develop ICT-based tools and eScience solutions supporting citizen engagement in scientific activities. The workshop will explore digital infrastructures for participation, collaborative platforms for data collection and analysis, and innovative approaches to science communication and stakeholder engagement. A particular focus of the workshop will be on applications related to environmental monitoring, climate science, and climate change, where citizen participation and distributed sensing infrastructures can significantly complement traditional scientific observations.
   url: #
 
 - name: 'Workshop on Research Software Supply Chain Security (RS3)'
