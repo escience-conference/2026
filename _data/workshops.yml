@@ -1,7 +1,7 @@
 - name: '1st Workshop on Agentic AI for Large-scale Science (AGENT4SC)'
   abstract: >
             AGENT4SC focuses on the systems foundations required to operationalize agent decisions that directly affect allocations, system health, data movement, energy consumption, and scientific outcomes. This demands integrated data and metadata infrastructures spanning scalable databases, vector stores, caching layers, provenance services, and knowledge graphs, all designed to remain performant and auditable under high concurrency. At scale, even minor errors, hallucinations, or blind spots can escalate into megawatt-hour waste, irreproducibility, and compromised scientific validity. Therefore, this workshop provides a forum to advance scalable architectures, cross-continuum coordination, evaluation frameworks, verification and mitigation strategies, provenance and observability mechanisms, performance analysis, and lessons from real deployments. The workshop builds on active efforts in agentic AI for science across national laboratories, academia, and industry, reflecting an emerging and rapidly growing community.
-  url: #
+  url: https://agent4sc.github.io
 
 - name: 'AI Capability Uplift That Actually Works: International Case Studies from Academia, Government, Industry, and Faith-based Organisations (AI-CAPWORK)'
   abstract: >
