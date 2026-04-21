@@ -37,12 +37,17 @@
             INSTIL aims to foster interdisciplinary dialogue across computer science, environmental sciences, and social sciences, highlighting how digital technologies can support citizen engagement and contribute to addressing complex societal challenges.
   url: https://www.instil-science.eu
 
-- name: 'Workshop on Research Software Supply Chain Security (RS3)'
+- name: '1st Workshop on Research Software Supply Chain Security (RS3)'
   abstract: >
-            Modern scientific discovery depends on complex computational infrastructure composed of research software, dependencies, and distributed computing environments. These interconnected artifacts and actors form the research software supply chain (RSSC), a critical yet poorly understood component of the scientific cyberinfrastructure. While software supply chain security has received growing attention in industry, its implications for scientific infrastructure — where usability, openness, and rapid experimentation are essential — remain largely unexplored. This workshop will convene research software engineers, scientists, and cybersecurity researchers to examine the RSSC as a component of scientific infrastructure. Through peer-reviewed papers, panels, and interactive sessions, participants will share operational experiences, discuss usability–security tradeoffs, and identify emerging challenges such as autonomous scientific agents and trust in computational results. The workshop will generate a roadmap identifying technical, organizational, and community interventions needed to secure research software supply chain across the scientific ecosystem.
-  url: #
+            The First Workshop on Research Software Supply Chain Security (RS3) brings together research software engineers, scientists, infrastructure operators, and cybersecurity researchers to tackle a neglected but increasingly important problem: the security of the research software supply chain. Modern science runs on software, and that software is assembled from many components whose trustworthiness is rarely easy to judge. RS3 will give participants a place to compare experiences and discuss where current practice falls short. The workshop will examine how stronger security can fit the realities of scientific work rather than fight against them. Attendees will come away with a clearer understanding of the risks in research software ecosystems, a vision for next steps, and new connections with others working on the same problems.
+  url: https://rs3series.github.io/escience26/
 
 - name: '2nd Workshop on Workflows, Intelligent Scientific Data, and Optimization for Automated Management (WISDOM 2026)'
   abstract: >
             Scientific automation is at the forefront of enabling faster, more reproducible discoveries in AI, exascale computing, and distributed environments. The WISDOM workshop provides a platform for researchers, developers, and practitioners to discuss advances in autonomous workflow design, intelligent data management, and scalable and agentic automation techniques. We are especially interested in innovative methods that integrate AI/ML to enhance the flexibility, efficiency, and reliability of scientific processes across heterogeneous environments.
   url: https://workflows.community/workshops/wisdom-2026/
+
+- name: 'Reproducible Workflows and Data Security (ReWorDS26)'
+  abstract: >
+
+  url: #
