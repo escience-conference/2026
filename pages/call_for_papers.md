@@ -37,7 +37,8 @@ Topics of interest related to eScience also include, but are not limited to:
 
 The conference is now soliciting **full papers (8 pages excluding references)** that present previously unpublished research achievements or eScience experiences and solutions.
 
-Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-column text using single-spaced 10-point font on 8.5×11-inch pages. Templates are available here: [https://www.ieee.org/conferences/publishing/templates](https://www.ieee.org/conferences/publishing/templates).
+Submitted papers should use the IEEE 8.5×11 manuscript guidelines: double-column text using single-spaced 10-point font on 8.5×11-inch pages. Templates are available here: [https://www.ieee.org/conferences/publishing/templates](https://www.ieee.org/conferences/publishing/templates).     
+
 All submissions will be single-blind peer reviewed. Selected full papers will receive a slot for an oral presentation. Accepted posters will be presented during a poster reception. Accepted full papers will be published in the IEEE conference proceedings. Rejected full papers can be resubmitted as posters or workshop presentations.
 
 Submitted papers may also be posted on preprint servers (e.g., arXiv).
