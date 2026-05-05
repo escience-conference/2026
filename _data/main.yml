@@ -36,7 +36,7 @@ contents:
     panel: false
     studentprogram: false
   meeting:
-    registration: false
+    registration: true
     venue: true
     lodging: true
     thingstodo: false
