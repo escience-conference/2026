@@ -32,7 +32,7 @@ contents:
     timetable: false
     keynotes: false
     workshops: true
-    tutorials: true
+    tutorials: false
     panel: false
     studentprogram: false
   meeting:
