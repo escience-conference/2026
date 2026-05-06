@@ -1,0 +1,18 @@
+- name: 'Accelerated Data Science with RAPIDS'
+  abstract: >
+            This tutorial presents a practical introduction to GPU-accelerated data science using the open-source RAPIDS ecosystem, with a short advanced module on distributed hyperparameter optimization. The design prioritizes immediately transferable workflows for data preparation, machine learning, and graph analytics while preserving a concise extension for model tuning at scale.
+  
+            The core content covers cuDF, cuML, cuGraph, and GPU-enabled XGBoost for end-to-end analytics on accelerated hardware. A final advanced segment introduces Ray Tune and selected Skorch/PyTorch patterns to illustrate how the same workflow can be extended to distributed search and deeper optimization settings.
+            The tutorial is delivered through code-based notebooks in a reproducible cloud-ready environment and is structured to serve intermediate practitioners who want a compact, applied introduction to modern GPU data science workflows.
+  url: #
+
+- name: 'Programming distributed computing with PyCOMPSs'
+  abstract: >
+            The tutorial aims to describe methodologies and tools to simplify the lifecycle of application workflows, in particular those that combine HPC software, data analytics and artificial intelligence. We will present tools to help to streamline the development, execution and sharing/exchange metadata of complex workflows in HPC systems. PyCOMPSs is a task-based parallel programming model in Python. Based on simple annotations, sequential Python programs can be executed in parallel in HPC-clusters and other distributed infrastructures. The tutorial will present an overview of PyCOMPSs, as well as an introduction to the dislib, a machine learning library developed on top of PyCOMPSs. The talk will be illustrated with the explanation of some applications developed with PyCOMPSs. The tutorial will include a hands-on session in the MareNostrum supercomputer with workflows combining HPC based and AI applications.
+  url: #
+
+- name: 'Portable By Design: Deploying Notebook-based Scientific Workflows across HPC Clusters'
+  abstract: >
+            Scientific workflows running on HPC systems are often difficult to reproduce and deploy across computing environments due to differences in software stacks, data dependencies, and execution models. This tutorial introduces a practical workflow ecosystem built around three complementary open-source tools: TaskVine, Sciunit, and Floability. Participants will construct distributed workflows using TaskVine, capture reproducible executions using Sciunit, and deploy portable notebook-based workflows across HPC systems using Floability backpacks. The tutorial emphasizes hands-on exercises that reflect real-world portability and reproducibility challenges faced by researchers working with HPC systems and national cyberinfrastructure.
+  url: #
+
