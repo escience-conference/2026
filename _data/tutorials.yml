@@ -20,3 +20,45 @@
   url: #
   organizer: Md Saiful Islam, Douglas Thain (University of Notre Dame); A S M Shahadat Hossain, Tanu Malik (University of Missouri)
 
+- name: 'Improving a workflow engine for HPC applications with ad-hoc file systems'
+  abstract: >
+            Workflow engines are indispensable for orchestrating large-scale scientific computations across
+            domains such as meteorology, disaster management, food safety and territorial management. However, implementing, managing, and executing real-world scientific applications as workflows across multiple infrastructures (e,g., servers, clusters, cloud) remains a challenge. DagOn* ( Directed
+            Acyclic Graph On anything) addresses this by providing a lightweight Python-based engine capable of managing parallel jobs represented as Directed Acyclic Graphs (DAGs) based on parallel
+            patterns that can be executed on any combination of local machines, on-premise high-performance
+            computing clusters (HPC), containers, and cloud-based virtual infrastructures.
+            Despite DagOn*’s ability to optimise task parallelism, overall performance is frequently hindered 
+            by I/O bottlenecks that occur when multiple applications concurrently access a shared parallel file system.
+            A solution to this issue is to improve the storage hierarchies of traditional HPC systems by adding new tiers to manage I/O bottlenecks and to support data movement between tiers based on usage frequency. In this way, ad-hoc file systems serve as intermediate storage layers
+            that utilise the new storage technologies, such as non-volatile random-access memory devices and
+            flash-based solid-state drives, to provide temporary storage based on application behaviour in the
+            HPC environment. This tutorial introduces Hercules as ad-hoc file systems for traditional HPC
+            applications, AI, and data-intensive workflows like ones generated with DagOn*. This alternative presents a feasible solution for generic file accesses, MPI, and workflow acceleration.
+  url: #
+  organizer: Genaro Śanchez-Gallegos, Catherine A. Torres Charles, Javier Garcia-Blas, and Jesus Carretero (Universidad Carlos III de Madrid)
+
+- name: 'End-to-End Provenance for Scientific Workflows with the yProv Ecosystem'
+  abstract: >
+    Traceability and Reproducibility are foundational challenges in modern scientific
+    computing and machine learning. Yet most practitioners rely on ad-hoc logging, making it
+    difficult to trace the origin of a result, reproduce an experiment, or audit a data pipeline.
+    The yProv Framework is an open-source ecosystem built on the W3C PROV standard
+    that addresses these challenges through structured, multi-level provenance collection,
+    storage, and visualization.
+    This tutorial introduces participants to the yProv lifecycle. Attendees will first instrument a
+    PyTorch training script using yProv4ML, capturing metrics, hyperparameters, energy
+    consumption, and output artifacts. Participants will upload their generated provenance
+    documents to a live yProvStore instance (hosted at the University of Trento), which
+    provides API access backed by MinIO object storage and a PostgreSQL database. They
+    will use the yProvExplorer web dashboard to visualize provenance as interactive
+    directed graphs, and finally they will be able to experiment with visualizing their results
+    from the ML runs, tracking progress with yProv4DV. This final visualization phase will
+    also be uploaded on the yProvStore for additional traceability, and other users will be
+    able to download scripts and re-run them locally.
+    Throughout the tutorial, participants will see how yProv adheres to FAIR principles: every
+    document receives a unique identifier, standard APIs enable programmatic access, and
+    native W3C PROV support ensures interoperability with other provenance tools. By the
+    end of the session, attendees will be able to instrument their own workflows, query
+    provenance programmatically, and gather provenance information from real scientific pipelines.
+  url: #
+  organizer: Gabriele Padovani, Nicola Marchioro (University of Trento)
