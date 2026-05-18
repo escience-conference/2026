@@ -11,7 +11,7 @@
   abstract: >
             The tutorial aims to describe methodologies and tools to simplify the lifecycle of application workflows, in particular those that combine HPC software, data analytics and artificial intelligence. We will present tools to help to streamline the development, execution and sharing/exchange metadata of complex workflows in HPC systems. PyCOMPSs is a task-based parallel programming model in Python. Based on simple annotations, sequential Python programs can be executed in parallel in HPC-clusters and other distributed infrastructures. The tutorial will present an overview of PyCOMPSs, as well as an introduction to the dislib, a machine learning library developed on top of PyCOMPSs. The talk will be illustrated with the explanation of some applications developed with PyCOMPSs. The tutorial will include a hands-on session in the MareNostrum supercomputer with workflows combining HPC based and AI applications.
   url: #
-  organizer: Rosa M, Badia, Javier Conejero, Daniele Lezzi (Barcelona Supercomputing Center)
+  organizer: Rosa M. Badia, Javier Conejero, Daniele Lezzi (Barcelona Supercomputing Center)
 
 
 - name: 'Portable By Design: Deploying Notebook-based Scientific Workflows across HPC Clusters'
