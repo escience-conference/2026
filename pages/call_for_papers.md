@@ -60,7 +60,7 @@ Conference proceedings will be published as IEEE CPS, indexed in Scopus and WoS.
 ### Key Dates
 
 The important dates of the conference are as follows (**All deadlines are AoE**):
-- Paper Submissions Due: <del>Monday, May 18, 2026, Tuesday, May 19, 2026</del> **Monday, June 1, 2026, Tuesday, June 2, 2026 (11:59 PM, anywhere on earth)**
+- Paper Submissions Due: <del>Monday, May 18, 2026, Tuesday, May 19, 2026 Monday, June 1, 2026, Tuesday, June 2, 2026</del> **Monday, June 8, 2026, Tuesday, June 9, 2026(11:59 PM, anywhere on earth)**
 - Notification of Paper Acceptance: **Monday, June 29, 2026**
 - Camera-ready Submissions due: **Friday, August 7, 2026**
 - Conference: **September 28 - October 2, 2026**
