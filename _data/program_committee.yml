@@ -13,6 +13,9 @@
 - name: Matthew E. Baughman
   institution: Princeton Plasma Physics Laboratory, USA
 
+- name: Nicola Bena
+  institution: University of Milan "La Statale", Italy
+
 - name: Martin Berzins
   institution: SCI Institute, University of Utah, USA
 
@@ -39,6 +42,9 @@
 
 - name: Kum-Won Cho
   institution: Kumoh National Institute of Technology, South Korea
+
+- name: Camille	Coti
+  institution: École de Technologie Supérieure, Canada
 
 - name: Simon Cox
   institution: University of Southampton, UK
@@ -103,6 +109,9 @@
 - name: James Lin
   institution: SJTU, China
 
+- name: Francesc Lordan
+  institution: Barcelona Supercomputing Center, Spain
+
 - name: Gang Luo
   institution: University of Washington, USA
 
@@ -142,6 +151,9 @@
 - name: Kazunori Nozaki
   institution: Osaka University, Japan
 
+- name: Santiago Nunez-Corrales
+  institution: University of Illinois at Urbana-Champaign, USA
+
 - name: Michael	Papka
   institution: Argonne National Laboratory | University of Illinois Chicago, USA
 
@@ -151,8 +163,14 @@
 - name: Swaroop	Pophale
   institution: Oak Ridge National Laboratory, USA
 
+- name: Suman Raj
+  institution: University of Chicago, USA
+
 - name: Rajiv Ramnath
   institution: The Ohio State University, USA
+
+- name: Christian Riccio
+  institution: Università degli Studi della Campania "Luigi Vanvitelli", Italy
 
 - name: Matei Ripeanu
   institution: The University of British Columbia, Canada
