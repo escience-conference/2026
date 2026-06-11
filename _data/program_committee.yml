@@ -11,7 +11,7 @@
   institution: Illinois Institute of Technology, USA
 
 - name: Matthew E. Baughman
-  institution: PPPL, USA
+  institution: Princeton Plasma Physics Laboratory, USA
 
 - name: Martin Berzins
   institution: SCI Institute, University of Utah, USA
@@ -34,6 +34,9 @@
 - name: Donatella Castelli
   institution: CNR-ISTI, Italy
 
+- name: Kyle Chard
+  institution: University of Chicago, USA
+
 - name: Kum-Won Cho
   institution: Kumoh National Institute of Technology, South Korea
 
@@ -46,8 +49,14 @@
 - name: Ryusuke	Egawa
   institution: Tokyo Denki University, USA
 
+- name: Augustus Ellerm
+  institution: Tokyo Denki University, USA
+
 - name: Rafael Ferreira da Silva
   institution: Oak Ridge National Laboratory, USA
+
+- name: Jose Fortes
+  institution: University of Florida, USA
 
 - name: Madhu Govindaraju
   institution: SUNY Binghamton, USA
@@ -76,6 +85,9 @@
 - name: Katie Knight
   institution: Oak Ridge National Laboratory, USA
 
+- name: Sanmukh R. Kuppannagari
+  institution: Case Western Reserve University, USA
+
 - name: Alexey Lastovetsky
   institution: University College Dublin, Ireland
 
@@ -84,6 +96,9 @@
 
 - name: Ulf Leser
   institution: Institut für Informatik, Humboldt-Universität zu Berlin, Germany
+
+- name: Daniele	Lezzi
+  institution: Barcelona Supercomputing Center, Spain
 
 - name: James Lin
   institution: SJTU, China
@@ -121,14 +136,23 @@
 - name: Diana Moise
   institution: HPE, Switzerland
 
+- name: Bogdan Nicolae
+  institution: Argonne National Laboratory, USA
+
 - name: Kazunori Nozaki
   institution: Osaka University, Japan
 
 - name: Michael	Papka
   institution: Argonne National Laboratory | University of Illinois Chicago, USA
 
-- name: Marlon	Pierce
+- name: Marlon Pierce
   institution: National Science Foundation, USA
+
+- name: Swaroop	Pophale
+  institution: Oak Ridge National Laboratory, USA
+
+- name: Rajiv Ramnath
+  institution: The Ohio State University, USA
 
 - name: Matei Ripeanu
   institution: The University of British Columbia, Canada
@@ -141,6 +165,9 @@
 
 - name: Yogesh Simmhan
   institution: Indian Institute of Science, India
+
+- name: Stian Soiland-Reyes
+  institution: The University of Manchester, UK
 
 - name: Achim Streit
   institution: Karlsruhe Institute of Technology, Germany
@@ -165,6 +192,9 @@
 
 - name: Sean R. Wilkinson
   institution: Oak Ridge National Laboratory, USA
+
+- name: Justin Wozniak
+  institution: Argonne National Laboratory, USA
 
 - name: Eric Yen
   institution: Academia Sinica Grid Computing Center, Taiwan
