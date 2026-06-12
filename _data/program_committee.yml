@@ -49,6 +49,9 @@
 - name: Simon Cox
   institution: University of Southampton, UK
 
+- name: Stefano Cozzini
+  institution: Area Science Park, Italy
+
 - name: Susumu Date
   institution: Osaka University, Japan
 
@@ -169,8 +172,14 @@
 - name: Marlon Pierce
   institution: National Science Foundation, USA
 
+- name: Debora Pina
+  institution: Barcelona Supercomputing Center, Spain
+
 - name: Swaroop	Pophale
   institution: Oak Ridge National Laboratory, USA
+
+- name: Tho	Quan Thanh
+  institution: Ho Chi Minh City University of Technology, Vietnam
 
 - name: Suman Raj
   institution: University of Chicago, USA
