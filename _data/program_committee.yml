@@ -70,6 +70,9 @@
 - name: Dan Gunter
   institution: Lawrence Berkeley National Laboratory, USA
 
+- name: Nathaniel Hudson
+  institution: Illinois Institute of Technology, USA
+
 - name: Niclas Jansson
   institution: RIKEN Advanced Institute for Computational Science, Japan
 
@@ -145,6 +148,12 @@
 - name: Diana Moise
   institution: HPE, Switzerland
 
+- name: Gabriele Morabito
+  institution: University of Messina, Italy
+
+- name: Long Nguyen Song Thien
+  institution: Ho Chi Minh City University of Technology, Vietnam
+
 - name: Bogdan Nicolae
   institution: Argonne National Laboratory, USA
 
@@ -205,8 +214,14 @@
 - name: Rajeev Thakur
   institution: Argonne National Laboratory, USA
 
+- name: Rafael Tolosana
+  institution: Universidad de Zaragoza, Spain
+
 - name: Rob Van Nieuwpoort
   institution: Leiden University, The Netherlands
+
+- name: Lipeng Wan
+  institution: Georgia State University, USA
 
 - name: Paul Watson
   institution: Newcastle University, UK
