@@ -30,7 +30,7 @@ contents:
     posters: true
   program:
     timetable: true
-    keynotes: false
+    keynotes: true
     workshops: true
     tutorials: true
     panel: false
