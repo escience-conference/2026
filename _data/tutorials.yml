@@ -62,3 +62,21 @@
     provenance programmatically, and gather provenance information from real scientific pipelines.
   url: #
   organizer: Gabriele Padovani, Nicola Marchioro (University of Trento)
+
+- name: 'Scientific Workflows from Zero to Hero with DAGonStar: A Primer for AI–HPC Computational Environmental Science'
+  abstract: >
+    This tutorial is a primer on scientific workflows for eScience practitioners who already run computational
+    pipelines, but have not yet captured them as explicit, reproducible workflow graphs. Using DAGonStar,
+    a lightweight Python workflow engine, the tutorial introduces the core ideas of workflow-based compu-
+    tational science before moving towards heterogeneous AI–HPC execution. Participants will learn what
+    tasks and dependencies are, why workflows are represented as DAGs, and how data products become
+    traceable artefacts. Through live coding and self-verification exercises, they will build a first local work-
+    flow, use data-oriented dependencies with the workflow:// schema, inspect scratch directories and
+    generated launchers, and practise reliability techniques such as cycle detection, checkpointing, and data
+    staging. The running examples are inspired by computational environmental science, where forecasting
+    chains combine data preparation, simulation, post-processing, AI-assisted interpretation, and publication.
+    By the end, attendees will have a portable workflow template, a practical checklist for designing their
+    own computational pipeline, and the conceptual language needed to adopt scientific workflow systems
+    in reproducible research software engineering.
+  url: #
+  organizer: Dante Sanchez-Gallegos (Universidad Carlos III de Madrid)
