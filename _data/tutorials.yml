@@ -4,7 +4,7 @@
   
             The core content covers cuDF, cuML, cuGraph, and GPU-enabled XGBoost for end-to-end analytics on accelerated hardware. A final advanced segment introduces Ray Tune and selected Skorch/PyTorch patterns to illustrate how the same workflow can be extended to distributed search and deeper optimization settings.
             The tutorial is delivered through code-based notebooks in a reproducible cloud-ready environment and is structured to serve intermediate practitioners who want a compact, applied introduction to modern GPU data science workflows.
-  url: #
+  url: https://d-barradas.github.io/escience/
   organizer: Didier Barradas-Bautista (King Abdullah University of Science and Technology)
 
 - name: 'Programming distributed computing with PyCOMPSs'
