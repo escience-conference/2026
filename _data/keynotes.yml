@@ -5,5 +5,32 @@
   institution: University of Missouri, USA
   abstract: Computational science has a portability problem that predates AI:a workflow that runs flawlessly on one facility routinely fails on another, because the code alone never captures the full truth of what it needs. The Floability project addresses this by packing a scientific notebook into a self-describing backpack that carries its complete software, data, and cluster-resource context, so a workflow discovered on a laptop can be deployed, unchanged, across heterogeneous HPC cyberinfrastructure. Artificial intelligence now sharpens this challenge in an unexpected direction. As coding agents increasingly author the scientific code we run, they introduce a new and measurable failure mode:the environment specification gap. This keynote argues that reproducibility and AI are now inseparable. The same gap between "it ran" and "it reproduces" appears whether code is written by a person or a model, and the path forward is infrastructure that captures complete environment context by construction — rather than trusting any author, human or AI, to get it right. I trace this arc from Floability's backpacks to the specification gap, and outline what reproducible eScience must demand of the AI systems now embedded in the scientific process.
   biography: Tanu Malik is an Associate Professor in the Department of Electrical Engineering and Computer Science at the University of Missouri, where she leads the RADIANT Lab. Her work has long centered on making computational science reproducible — helping pioneer lightweight software packaging and advancing Sciunit as a practical path to portable, reproducible workflows. Her research spans trustworthy systems, scientific computing, and distributed and parallel systems, with solutions that have supported astronomers, geoscientists, high-energy physicists, and most recently material scientists.
-             The RADIANT Lab is funded by the NSF, NASA, Army Research Lab, the Department of Energy, and industry funding. Malik holds an NSF CAREER Award and a DOE Better Scientific Software Fellowship. Before joining Mizzou in 2025, she was an Associate Professor at DePaul University and a research scientist at the University of Chicago and Argonne National Laboratory. She earned her PhD from Johns Hopkins University. She is a member of the ACM and IEEE.
+    The RADIANT Lab is funded by the NSF, NASA, Army Research Lab, the Department of Energy, and industry funding. Malik holds an NSF CAREER Award and a DOE Better Scientific Software Fellowship. Before joining Mizzou in 2025, she was an Associate Professor at DePaul University and a research scientist at the University of Chicago and Argonne National Laboratory. She earned her PhD from Johns Hopkins University. She is a member of the ACM and IEEE.
   photo: escience26-keynote-Tanu-Malik.jpg
+
+- title: TBD
+  name: Maria Fazio
+  time:
+  chair:
+  institution: University of Messina, Italy
+  abstract:
+  biography:
+  photo:
+
+- title: TBD
+  name: Carole Goble
+  time:
+  chair:
+  institution: University of Manchester, UK
+  abstract:
+  biography:
+  photo:
+
+- title: TBD
+  name: Guido Guarnieri
+  time:
+  chair:
+  institution: ENEA, Italy
+  abstract:
+  biography:
+  photo:
