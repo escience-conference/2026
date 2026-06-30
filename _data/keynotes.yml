@@ -1,17 +1,7 @@
-- title: Backpacks and Black Boxes:Reproducible Science When AI Writes the Code
-  name: Tanu Malik
-  time:
-  chair:
-  institution: University of Missouri, USA
-  abstract: Computational science has a portability problem that predates AI:a workflow that runs flawlessly on one facility routinely fails on another, because the code alone never captures the full truth of what it needs. The Floability project addresses this by packing a scientific notebook into a self-describing backpack that carries its complete software, data, and cluster-resource context, so a workflow discovered on a laptop can be deployed, unchanged, across heterogeneous HPC cyberinfrastructure. Artificial intelligence now sharpens this challenge in an unexpected direction. As coding agents increasingly author the scientific code we run, they introduce a new and measurable failure mode:the environment specification gap. This keynote argues that reproducibility and AI are now inseparable. The same gap between "it ran" and "it reproduces" appears whether code is written by a person or a model, and the path forward is infrastructure that captures complete environment context by construction — rather than trusting any author, human or AI, to get it right. I trace this arc from Floability's backpacks to the specification gap, and outline what reproducible eScience must demand of the AI systems now embedded in the scientific process.
-  biography: Tanu Malik is an Associate Professor in the Department of Electrical Engineering and Computer Science at the University of Missouri, where she leads the RADIANT Lab. Her work has long centered on making computational science reproducible — helping pioneer lightweight software packaging and advancing Sciunit as a practical path to portable, reproducible workflows. Her research spans trustworthy systems, scientific computing, and distributed and parallel systems, with solutions that have supported astronomers, geoscientists, high-energy physicists, and most recently material scientists.
-    The RADIANT Lab is funded by the NSF, NASA, Army Research Lab, the Department of Energy, and industry funding. Malik holds an NSF CAREER Award and a DOE Better Scientific Software Fellowship. Before joining Mizzou in 2025, she was an Associate Professor at DePaul University and a research scientist at the University of Chicago and Argonne National Laboratory. She earned her PhD from Johns Hopkins University. She is a member of the ACM and IEEE.
-  photo: escience26-keynote-Tanu-Malik.jpg
-
 - title: TBD
   name: Maria Fazio
-  time:
-  chair:
+  time: Sep. 30, 14.00
+  chair: TBD
   institution: University of Messina, Italy
   abstract:
   biography:
@@ -19,18 +9,37 @@
 
 - title: TBD
   name: Carole Goble
-  time:
-  chair:
+  time: Sep. 30, 9.30
+  chair: TBD
   institution: University of Manchester, UK
   abstract:
   biography:
   photo:
 
+- title: Backpacks and Black Boxes:Reproducible Science When AI Writes the Code
+  name: Tanu Malik
+  time: Oct. 1, 9.30
+  chair: TBD
+  institution: University of Missouri, USA
+  abstract: Computational science has a portability problem that predates AI:a workflow that runs flawlessly on one facility routinely fails on another, because the code alone never captures the full truth of what it needs. The Floability project addresses this by packing a scientific notebook into a self-describing backpack that carries its complete software, data, and cluster-resource context, so a workflow discovered on a laptop can be deployed, unchanged, across heterogeneous HPC cyberinfrastructure. Artificial intelligence now sharpens this challenge in an unexpected direction. As coding agents increasingly author the scientific code we run, they introduce a new and measurable failure mode:the environment specification gap. This keynote argues that reproducibility and AI are now inseparable. The same gap between "it ran" and "it reproduces" appears whether code is written by a person or a model, and the path forward is infrastructure that captures complete environment context by construction — rather than trusting any author, human or AI, to get it right. I trace this arc from Floability's backpacks to the specification gap, and outline what reproducible eScience must demand of the AI systems now embedded in the scientific process.
+  biography: Tanu Malik is an Associate Professor in the Department of Electrical Engineering and Computer Science at the University of Missouri, where she leads the RADIANT Lab. Her work has long centered on making computational science reproducible — helping pioneer lightweight software packaging and advancing Sciunit as a practical path to portable, reproducible workflows. Her research spans trustworthy systems, scientific computing, and distributed and parallel systems, with solutions that have supported astronomers, geoscientists, high-energy physicists, and most recently material scientists.
+    The RADIANT Lab is funded by the NSF, NASA, Army Research Lab, the Department of Energy, and industry funding. Malik holds an NSF CAREER Award and a DOE Better Scientific Software Fellowship. Before joining Mizzou in 2025, she was an Associate Professor at DePaul University and a research scientist at the University of Chicago and Argonne National Laboratory. She earned her PhD from Johns Hopkins University. She is a member of the ACM and IEEE.
+  photo: escience26-keynote-malik.png
+
 - title: TBD
   name: Antonio Piersanti
-  time:
-  chair:
+  time: Oct. 1, 9.30
+  chair: TBD
   institution: ENEA, Italy
   abstract:
   biography:
   photo:
+
+- title: Distribute and Learn 1 Billion in Europe
+  name: Radu Prodan
+  time: Oct. 1, 14.00
+  chair: TBD
+  institution: Universität Innsbruck, Austria
+  abstract: The digital world hosts approximately 6 billion Internet users, representing about three-quarters of the global population, with over 8.5 billion mobile edge device subscriptions as the primary access method. Bringing nearly everyone online generates over 400 billion gigabytes of data daily, overwhelming the processing and storage capacity of modern supercomputers with millions of processing cores and operating at over 1 billion gigaflops per second. The emergence of GPU accelerators triggered the modern AI boom, enabling deep neural networks with billions of neurons and parameters to outperform humans in specific, supervised, structured tasks, such as internet search, image recognition, or speech detection. Today, federations of edge devices like IoT industrial sensors, smart cameras, networking routers, switches, gateways, wireless access points, and consumer retail devices like smartphones, laptops, and healthcare equipment equipped with powerful neural processing units exhibit peak performance up to trillions of operations per second for specialized AI inference, comparable to that of parallel computers 20 years ago. The presentation provides an outlook on the research activities of the endowed professorship in Edge AI at the University of Innsbruck, focusing on learning from large numbers of distributed, interconnected, memory-constrained devices. The research addresses real industrial needs of 11 local funding companies and three large multimillion-Euro Horizon Europe projects:Graph-Massivizer using sampling for compressing graph-structured data with billions of nodes and trillions of edges for training and inference in graph neural networks, DataPACT addressing AI compliance according to the EU regulations using federated knowledge distillation, and CoAgent, researching AI pipelines and distributed small language models for reasoning.
+  biography: Radu Prodan holds an endowed professorship in Edge AI at the Department of Computer Science, University of Innsbruck, Austria, co-funded by the Austrian Research Promotion Agency (FFG), the State of Tyrol, the Tyrol Economic Chamber, the Federation of Austrian Industries, and 11 local companies. Between 2018 and 2025, he held a professorship in distributed systems at the University of Klagenfurt. He received his PhD in 2004 from the Vienna University of Technology and his tenure in 2018 from the University of Innsbruck. His research interests include AI methods and tools for performance, optimization, and resource management in distributed and parallel systems. He participated in numerous national and international projects and coordinated three European projects, securing over €7.5 million in funding. He authored over 300 publications and received three IEEE Best Paper Awards.
+  photo: eScience-26-keynote-prodan.png
