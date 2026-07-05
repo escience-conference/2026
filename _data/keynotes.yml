@@ -1,11 +1,11 @@
-- title: TBD
+- title: Data Science and Analytics for the Next Era of Distributed eScience
   name: Maria Fazio
   time: Sep. 30, 14.00
   chair: TBD
   institution: University of Messina, Italy
-  abstract:
-  biography:
-  photo:
+  abstract: The next era of eScience involves innovative and sophisticated AI-based analysis tools operating in highly distributed environments. As research workflows become fragmented across edge, cloud, and HPC infrastructures, scientists need to gather research data across federated systems and information about their connections. Therefore, Knowledge Graphs and new approaches for representing and enriching data can greatly impact the quality of research paths by providing the structural foundation necessary for an AI-native research lifecycle. Representing eScience entities as high-dimensional items in heterogeneous graph structures, we can leverage autonomous reasoning to interpret vast, interconnected datasets that traditional models fail to capture. Exploring how these approaches transform distributed infrastructure into analytical engines capable of (near)real-time reasoning and predictive modelling could change the way we plan research workflows and assess scientific processes. Notably, these strategies create opportunities for the automation of complex reasoning and the identification of latent patterns, evolving scientific processes into dynamic knowledge services.
+  biography: Maria Fazio is Associate Professor in Computer Science. She is a member of the Editorial Review Board of several international journals, coordinator of the e-Health Continuum Research Lab and a senior member of the Future Computing Research Lab at the University of Messina. She is currently the Coordinator of the Master's course in Data Science at the University of Messina. She is co-founder of Alma Digit, which is an SME and academic Spin-Off at the University of Messina aimed at process automation in the Cloud. Her research interests are focused on Compute Continuum, with particular reference to intelligent microservice orchestration,  Agentic AI deployments, security in IoT-Edge ecosystems.
+  photo: eScience-26-keynote-fazio.png
 
 - title: TBD
   name: Carole Goble
