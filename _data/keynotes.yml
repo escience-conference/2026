@@ -17,6 +17,15 @@
   biography: Carole Goble CBE FREng is a Professor of Computer Science at the University of Manchester, UK. She is a leader in Digital Research Infrastructures, translating technical innovations in distributed computing, semantic and metadata technologies, data and software sharing and computational workflows into FAIR and Open information solutions for scientists, in particular the Life Sciences and Biodiversity. She is currently:Joint Head of Node of ELIXIR-UK the national node of ELIXIR, the European Research Infrastructure for Life Science Data; and the lead of the BioFAIR Method Commons national infrastructure for life science FAIR computational workflows. She previously co-led of the Federated Analytics programme for Health Data Research UK and is a founder of the UK’s Software Sustainability Institute. Carole is an author of the seminal FAIR principles for scientific data and recipient of the Microsoft Jim Gray award for her contributions to eScience. She has keynoted twice already at IEEE eScience (2005, 2012), so this makes a hattrick.
   photo: eScience-26-keynote-goble.png
 
+- title: TBD
+  name: Guido Guarnieri
+  time: Oct. 1, 9.30
+  chair: TBD
+  institution: ENEA, Italy
+  abstract:
+  biography:
+  photo:
+
 - title: Backpacks and Black Boxes:Reproducible Science When AI Writes the Code
   name: Tanu Malik
   time: Oct. 1, 9.30
@@ -26,15 +35,6 @@
   biography: Tanu Malik is an Associate Professor in the Department of Electrical Engineering and Computer Science at the University of Missouri, where she leads the RADIANT Lab. Her work has long centered on making computational science reproducible — helping pioneer lightweight software packaging and advancing Sciunit as a practical path to portable, reproducible workflows. Her research spans trustworthy systems, scientific computing, and distributed and parallel systems, with solutions that have supported astronomers, geoscientists, high-energy physicists, and most recently material scientists.
     The RADIANT Lab is funded by the NSF, NASA, Army Research Lab, the Department of Energy, and industry funding. Malik holds an NSF CAREER Award and a DOE Better Scientific Software Fellowship. Before joining Mizzou in 2025, she was an Associate Professor at DePaul University and a research scientist at the University of Chicago and Argonne National Laboratory. She earned her PhD from Johns Hopkins University. She is a member of the ACM and IEEE.
   photo: eScience-26-keynote-malik.png
-
-- title: TBD
-  name: Guido Guarnieri
-  time: Oct. 1, 9.30
-  chair: TBD
-  institution: ENEA, Italy
-  abstract:
-  biography:
-  photo:
 
 - title: Distribute and Learn 1 Billion in Europe
   name: Radu Prodan
