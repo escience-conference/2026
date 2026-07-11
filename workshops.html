@@ -9,7 +9,7 @@ title: Workshops
     {% for wk in wks %}
     <div class="col-sm-12 col-md-12" style="margin-bottom: 3em">
         <h3><a href="{{ wk.url }}" target="_blank">{{ wk.name }}</a></h3>
-        {{ wk.abstract }}
+        {{ wk.abstract | markdownify }}
     </div>
     {% endfor %}
 </div>
