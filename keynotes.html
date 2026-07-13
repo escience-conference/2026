@@ -22,9 +22,9 @@ title: Keynotes
             <strong>{{ k.name }}</strong><br />
             {{ k.institution }}
         </div>
-        {{ k.abstract }}
+        {{ k.abstract | markdownify }}
         <div class="biography">
-            <strong>Bio.</strong> {{ k.biography }}
+            <strong>Bio.</strong> {{ k.biography | markdownify }}
         </div>
         <br/>
         {% if k.slides %}
