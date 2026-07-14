@@ -28,6 +28,7 @@ contents:
     workshops: true
     tutorials: true
     posters: true
+    invited: true
   program:
     timetable: true
     keynotes: true
