@@ -36,6 +36,7 @@ contents:
     tutorials: true
     panel: false
     studentprogram: false
+    invited: true
   meeting:
     registration: true
     venue: true
