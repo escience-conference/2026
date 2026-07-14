@@ -3,7 +3,7 @@
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
 
-<h2>22nd IEEE International eScience Conference (eScience’26) Instructions the invited speakers</h2>
+<h2>22nd IEEE International eScience Conference (eScience’26) Instructions for invited speakers</h2>
 
 The 22nd IEEE International Conference on eScience (eScience 2026) will be held in Naples, Italy, from September 28 to October 2, 2026.
 The IEEE eScience conference brings together researchers, practitioners, and technology experts working across the broad field of computationally intensive and data-intensive science. It provides an interdisciplinary forum for discussing innovative research methods, enabling technologies, scientific applications, and infrastructures supporting every stage of the research lifecycle.
