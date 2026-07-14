@@ -20,6 +20,7 @@ Submitted papers may also be posted on preprint servers (e.g., arXiv).
 Invited speakers are also asked to send, as instructed in the email invitation:
 - a high-resolution photograph of the speaker;
 - a short professional biography of the speaker.
+
 These materials will be used to present and promote the invited talks on the conference website and through the official IEEE eScience social media channels.
 
 At least one author of each accepted paper must register as an author at the full registration rate. Each author registration applies to only one accepted submission. Note. The use of artificial intelligence (AI)-generated content shall be disclosed in the acknowledgements section of the paper. The AI system used shall be identified, and specific sections of the paper that use AI-generated content shall be determined, accompanied by a brief explanation regarding the level at which the AI system was used to generate the content. Authors are fully responsible for all content they submit. For more information, please click here 
