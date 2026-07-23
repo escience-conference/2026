@@ -1,4 +1,4 @@
-| Submission Link         | [https://easychair.org/cfp/eScience2026](https://easychair.org/cfp/eScience2026) |
+| Submission Link         | [https://easychair.org/conferences/submission_new?a=37366309#{fr:nGhupUt7Ynvg}](https://easychair.org/cfp/eScience2026) |
 | Conference Dates        | {{ site.data.main.dates }} |
 | Conference Address      | {{ site.data.main.location }} |
 | Publications indexed by | <img src="{{ site.baseurl }}/images/ieee.png" alt="IEEE" /> |
