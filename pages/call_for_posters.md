@@ -11,7 +11,7 @@ eScience 2026 provides an interdisciplinary forum for researchers, developers, a
 
 ## Poster Submission Guidelines
 
-Authors are invited to submit a paper (up to 2 pages, including references) for a poster presentation [using the same template as for papers](http://www.ieee.org/conferences_events/conferences/publishing/templates.html). Contributions should be submitted in PDF format to the submission site under the eScience2026-poster track: [https://easychair.org/my2/conference?conf=escience2026](https://easychair.org/my2/conference?conf=escience2026)
+Authors are invited to submit a paper (up to 2 pages, including references) for a poster presentation [using the same template as for papers](http://www.ieee.org/conferences_events/conferences/publishing/templates.html). Contributions should be submitted in PDF format to the submission site under the eScience2026-poster track: [https://easychair.org/conferences/?conf=escience2026](https://easychair.org/conferences/?conf=escience2026)
 
 ## Awards
 
