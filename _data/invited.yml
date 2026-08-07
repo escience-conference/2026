@@ -1,7 +1,43 @@
+- title: Quantifying Non-Functional Requirement Costs in Continuum Workflows
+  name:
+  time:
+  authors: Diana Carrizales-Espinoza, Dante D. Sanchez-Gallegos, Máximo Rodríguez Herrero, J.L. Gonzalez-Compean and Jesus Carretero
+  institution:
+  abstract: Modern scientific workflows in the computing continuum face significant security and reliability risks during cross-domain data movement. Tools for enforcing non-functional
+            requirements (NFRs), such as confidentiality, integrity, and fault tolerance, mitigate these risks but introduce performance overhead. In current simulation frameworks, there is a lack of 
+            systematic methodologies for analyzing and identifying tradeoffs between enforcing NFRs and preserving workflow efficiency
+            before physical deployment across the computing continuum. To address this gap, this paper introduces a simulation model that
+            estimates the cost of enforcing NFRs in distributed workflows across the computing continuum. The model supports the parallel
+            execution of NFRs as patterns, capturing the impact of data partitioning, synchronization, and load balancing on overall
+            performance. We validated this model across heterogeneous infrastructures, including Raspberry Pi edge nodes, fog PCs,
+            and an HPC cloud cluster, through multiple experiments and a case study based on a real-world medical workflow for CT scan
+            management. The results demonstrate that the model successfully identifies critical architectural bottlenecks before physical deployment;
+            for example, accurately modeling the performance scaling of parallel patterns and evaluating energy consumption tradeoffs.
+            Overall, our simulation model demonstrates its usability as a scalable tool for proactive workflow optimization.
+  biography:
+  photo:
+
+- title: CRESCO8:An Intel–Based HPC facility for nuclear fusion plasma reactors
+  name: Francesco Iannone
+  time:
+  authors: Francesco Iannone
+  institution: ENEA, Italy
+  abstract: CRESCO8 is an HPC system based on Intel Xeon Emerald Rapids CPUs and Ponte Vecchio GPUs, designed to support large-scale simulations for magnetic confinement fusion and
+    materials science. The system provides a comprehensive software environment for first-principles plasma modeling, including the
+    major gyrokinetic codes GYSELA,GENE and ORB5, enabling detailed studies of turbulence and transport in fusion-relevant tokamak regimes.
+    In addition, CRESCO8 supports advanced materials simulations through widely used electronic-structure and atomistic
+    codes like Quantum ESPRESSO and CP2K. Selected applications have been ported and optimized for Intel GPU architectures,
+    including Intel Ponte Vecchio, demonstrating effective CPUGPU portability and satisfactory performance. Experimental and
+    simulation data analysis is supported through the IMAS software suite for tokamak workflows.
+    CRESCO8 serves as the reference supercomputing facility for the Divertor Tokamak Test (DTT) facility, providing a
+    key computational infrastructure for integrated nuclear fusion research.
+  biography: Francesco Iannone is a physicist at ENEA (the Italian National Agency for New Technologies, Energy and Sustainable Economic Development). After participating for more than ten years in large tokamak experiments in the field of magnetic confinement nuclear fusion, since 2007, he has been actively involved in the design, deployment, and operation of High-Performance Computing (HPC) infrastructures supporting the European fusion research programme. His work focuses on the procurement and management of large-scale HPC systems, co-design activities between computational scientists and technology providers, and the optimisation of scientific applications for advanced computing architectures. He has contributed to the evolution of the European HPC infrastructure dedicated to fusion energy research, supporting the execution of large-scale plasma physics simulations for the study and development of magnetic confinement nuclear fusion reactors. His research interests include heterogeneous computing architectures, GPU acceleration of scientific applications, HPC system architecture and resource management. He has participated in several European projects related to HPC and nuclear fusion energy and has contributed to the development of advanced computational infrastructures serving the European nuclear fusion community.
+  photo: invited-iannone.png
+
 - title: From Workflows to Swarms:Distributed Intelligence for a Resilient and Adaptive Computing Continuum
   name: Anirban Mandal
   time:
-  chair:
+  author: Anirban Mandal
   institution: Renaissance Computing Institute, UNC Chapel Hill, USA
   abstract: Scientific workflows increasingly span sensors, instruments, edge devices, programmable networks, clouds, and HPC facilities. In this computing continuum, resources appear and disappear, network conditions change, failures propagate across layers, and decisions often must be made close to where data is produced. Treating the continuum as a collection of static resources managed by a centralized scheduler is becoming increasingly inadequate.This talk traces a journey from conventional scientific workflows to adaptive edge-to-core execution and, ultimately, distributed, decentralized, multi-agent workflow management. I will describe experiments in dynamic computation placement, programmable network services, controlled anomaly injection, high-throughput data transport, and decentralized workload selection. A recurring theme is the role of research testbeds - particularly FABRIC - as "digital wind tunnels" where new infrastructure ideas can be subjected to realistic network conditions, controlled failures, and repeatable experiments before real-world deployment. I will outline a vision for an adaptive computing continuum in which distributed agents observe, negotiate, and act while remaining explainable, reproducible, and aligned with scientific intent.
   biography: Anirban Mandal is Director of the Network Research and Infrastructure Group at RENCI, University of North Carolina at Chapel Hill. His research spans distributed systems, scientific workflows, cloud and edge computing, networking, and research cyberinfrastructure, with an emphasis on adaptive resource management, resilient infrastructure, performance analysis, and anomaly detection. He leads and contributes to multi-institutional NSF and DOE projects exploring edge-to-core workflows, programmable network testbeds, and distributed agent-based workflow management. Mandal received his Ph.D. in Computer Science from Rice University in 2006 and his B.Tech. from IIT Bombay in 2000.
@@ -10,25 +46,18 @@
 - title:
   name: Daniel S. Katz
   time:
-  chair:
+  authors:
   institution: National Center for Supercomputing Applications, USA
   abstract:
   biography: Daniel S. Katz is chief scientist at the National Center for Supercomputing Applications (NCSA), research professor in the Siebel School of Computing and Data Science, and research professor in the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. His research interests include applications, algorithms, fault tolerance, and programming in parallel and distributed computing, including HPC and cloud, and policy issues, such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers.
   photo: invited-katz.png
 
-- title:
-  name:
-  time:
-  chair:
-  institution:
-  abstract:
-  biography:
-  photo:
+
 
 - title:
   name:
   time:
-  chair:
+  authors:
   institution:
   abstract:
   biography:
