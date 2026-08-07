@@ -34,6 +34,15 @@
   biography: Francesco Iannone is a physicist at ENEA (the Italian National Agency for New Technologies, Energy and Sustainable Economic Development). After participating for more than ten years in large tokamak experiments in the field of magnetic confinement nuclear fusion, since 2007, he has been actively involved in the design, deployment, and operation of High-Performance Computing (HPC) infrastructures supporting the European fusion research programme. His work focuses on the procurement and management of large-scale HPC systems, co-design activities between computational scientists and technology providers, and the optimisation of scientific applications for advanced computing architectures. He has contributed to the evolution of the European HPC infrastructure dedicated to fusion energy research, supporting the execution of large-scale plasma physics simulations for the study and development of magnetic confinement nuclear fusion reactors. His research interests include heterogeneous computing architectures, GPU acceleration of scientific applications, HPC system architecture and resource management. He has participated in several European projects related to HPC and nuclear fusion energy and has contributed to the development of advanced computational infrastructures serving the European nuclear fusion community.
   photo: invited-iannone.png
 
+- title: Collective Agentic Memory:Community Trust for the Agentic Web
+  name:
+  time:
+  authors: Ryan Chard, Gus Ellerm, Alex Brace, Alok Kamatar, Suman Raj, Ian Foster and Kyle Chard
+  institution:
+  abstract:
+  biography:
+  photo:
+
 - title: From Workflows to Swarms:Distributed Intelligence for a Resilient and Adaptive Computing Continuum
   name: Anirban Mandal
   time:
