@@ -39,7 +39,86 @@
   time:
   authors: Ryan Chard, Gus Ellerm, Alex Brace, Alok Kamatar, Suman Raj, Ian Foster and Kyle Chard
   institution:
-  abstract:
+  abstract: Agents can now externalize experience into memory, consolidating historical traces into semantic knowledge and
+            procedural shortcuts that persist between sessions. Such memory is typically private to a single agent. We argue that a critical class
+            of agentic memory is inherently collective:what an ecosystem of heterogeneous, distributed agents, operating across environments
+            no one of them controls or fully trusts, has learned about the data sources, services, and tools they depend on. We present Cairn,
+            a community reputation layer that illustrates this gap. Cairn enables agents to review the community’s opinion of a resource
+            before use and submit evidence-backed ratings after. Cairn aggregates independent observations and uses a time-decayed
+            Beta model with confidence shrinkage to weigh reviews. Cairn also supports free-text discovery by searching embeddings across
+            reviewers’ scoring rationales. We evaluate Cairn’s reputation engine under adversarial simulation (liars, colluding cliques,
+            camouflage, slander), benchmark discovery retrieval, and report a case study of rating heterogeneous agents in the wild.
+  biography:
+  photo:
+
+- title: A Metascience Infrastructure for Analysing Administrative Research-Funding Records
+  name:
+  time:
+  authors: Rosa Filgueira, Spyro Nita, Laura Moran, Xavier McNally and Christopher Daley
+  institution:
+  abstract: Administrative research-funding records contain valuable evidence for metascience and science-policy analysis,
+            but they are rarely analysis-ready. They are distributed across heterogeneous tables and contain duplicated information, missing references, inconsistent identifiers, and limited metadata for comparing
+            funding instruments. This paper presents a methodology for transforming UK Research and Innovation’s Gateway to
+            Research (GtR) records into an enhanced metascience infrastructure. The approach combines data-quality auditing, schema
+            extension, loading-time repairs, enrichment heuristics, and materialised analytical tables. The resulting database supports two
+            public dashboards:GTR Analyser, for research-question-driven comparison of funding instruments, and GTR Explorer, for
+            inspection and export of enriched records. A case study compares applicant-led and thematic funding across councils, organisations, partners, places, and outcomes.
+  biography:
+  photo:
+
+- title: The Social Life of Data:Finding Data that is Fit for Use
+  name: Manish Parashar
+  time:
+  authors: Manish Parashar
+  institution: University of Utah, USA
+  abstract: The current data renaissance, accelerated by advances in artificial intelligence, is transforming scientific discovery across disciplines. As data becomes increasingly abundant, the challenge is no longer simply finding data but finding data that is fit for use. Doing so requires looking beyond datasets themselves to the network of relationships that connect data to the people, workflows, publications, and institutions that produce and use it.
+            This talk explores the social networks of data through data usage knowledge graphs, which capture the relationships among datasets, computational workflows, users, publications, and organizations. These graphs expose the contextual signals needed to assess provenance, trustworthiness, relevance, and fitness for purpose, enabling more informed data discovery and responsible reuse.
+            Using the National Data Platform as a systems exemplar, I will present an architectural approach for building open, interoperable, and trustworthy data ecosystems. I will show how graph-based representations of data usage strengthen transparency and reproducibility while enabling AI-driven discovery and reasoning across disciplinary boundaries. Ultimately, I argue that understanding the social networks surrounding data is key to helping both researchers and intelligent systems identify data that is truly fit for use.
+  biography:
+  photo:
+
+- title: Building the e-Science Infrastructure for Societal Computing:Beyond Scientific Workflows
+  name:
+  time:
+  authors: Ilkay Altintas and Melissa Floca
+  institution:
+  abstract: Scientific workflows have been a defining contribution of e-Science, enabling complex computational investigations to become more automated, scalable, reproducible, and reusable. Together with advances in distributed computing, cyberinfrastructure, data management, and open science, workflows have transformed research across disciplines. However, many contemporary challenges, e.g., wildfire resilience, climate adaptation, public health, sustainable agriculture, and disaster preparedness, cannot be addressed through scientific workflows alone. Addressing them requires infrastructure that persistently connects observations, models, artificial intelligence, operational systems, institutions, and human expertise. This paper describes how such infrastructure can be built. We introduce societal computing as an evolution of e-Science that extends reproducible workflows into programmable innovation ecosystems, and identify the infrastructure characteristics it requires:composability, interoperability, extensibility, continuous learning, human-centered AI, trustworthy operation, and integration with real-world decision processes. We ground this account in the WIFIRE program, which over roughly fifteen years grew from data-driven scientific workflows for wildfire modeling into an operational ecosystem linking fire science, data, simulations, cyberinfrastructure, emergency agencies, utilities, and communities. Building on lessons from WIFIRE, the National Data Platform (NDP) generalizes these lessons into reusable, federated infrastructure—spanning data discovery, computational workspaces, collaborative environments, education, and AI-ready services that other domains can adopt to build their own societal computing ecosystems. Together, WIFIRE and NDP offer a concrete, tested blueprint for the infrastructure the next generation of e-Science needs:not only reproducible science, but sustained, reusable, and trustworthy pathways from scientific knowledge to actionable use of knowledge.
+  biography:
+  photo:
+
+- title: The STORI of Jub:Vectorizing Spatial–Temporal, Observational, Reference, and Interest Profiles for Enhanced LLM Agent Retrieval
+  name:
+  time:
+  authors: José Luis Gonzales Compeán, José Carlos Morin-García, J.Pablo Ramírez-Bárcenas, Iván Lopez Arevalo, Martha Cordero-Oropeza and Heriberto Aguirre-Meneses
+  institution:
+  abstract: This paper presents STORI-Jub, a data science service hub whose architecture is inspired by el Caracol, the ancient observatory in Chichen Itzá, Yucatán, alongside STORI, a novel retrieval methodology designed to enhance LLM agent performance. STORI vectorizes Spatial–Temporal, Observational, Reference, and Interest profiles, allowing agents within the Jub ecosystem to automatically ingest profiled vectors for tools and skills via the Model Context Protocol (MCP). This setup facilitates the recursive generation of massive, searchable information products and multi-view analytical perspectives. To evaluate STORI, we compared local Jub agents using conventional RAG (on-demand processing of raw and cured data) against agents leveraging STORI profile-based vectorization. Both configurations were tested on real-world case studies featuring disease mortality and toxic substance databases provided by participating healthcare institutions under Mexican government agency support (Secihti, MADTeC-2025-478). Agents were evaluated on efficacy and efficiency in handling heterogeneous queries and questions. Experimental results revealed that STORI improves retrieval accuracy and efficiency when conducting exploratory studies, prospective research, and situational decision-making.
+  biography:
+  photo:
+
+- title: Federated Learning on the American Science Cloud using APPFL
+  name:
+  time:
+  authors: Zilinghan Li, Abhijit Chunduru, Harinarayan Krishnan, Eric Chagnon, Peter Nugent, Kibaek Kim and Ravi Madduri
+  institution:
+  abstract: The American Science Cloud (AmSC), established under the Genesis Mission of the U.S. Department of Energy (DOE), aims to integrate DOE high-performance computing systems, experimental facilities, and data resources into a single, coordinated, AI-driven discovery platform. AmSC's early services focus on curated artifacts, such as gated inference access to hosted models, experiment tracking, and function execution across computing facilities. However, what these services lack is a means to train a model across organizational boundaries where data cannot be centralized due to policy, privacy, or scale. This is, by definition, a use case for federated learning (FL) and a growing class of scientific AI. In this paper, we show that this gap can be bridged by deploying the orchestration logic of the Advanced Privacy-Preserving Federated Learning (APPFL) framework as a scalable cloud service on top of the primitives AmSC already provides:project-scoped authentication that supports secure and reliable federation membership, function execution that drives distributed training at each site, experiment tracking that records round-level performance, and finally, the model-hosting and inference infrastructure that can be leveraged to distribute the federated trained models to authorized participants. We argue that offering federated computing as an important AmSC service would unlock privacy-constrained scientific collaborations, enabling public-private partnerships in model building while exercising and enhancing the platform's own federated infrastructure.
+  biography:
+  photo:
+
+- title: Citizen Science:Prediction to Arrival, Modeling H5N1 in New Zealand
+  name: Kris Bubendorfer
+  time:
+  authors: Kris Bubendorfer
+  institution: Victoria University of Wellington, New Zealand
+  abstract: Highly Pathogenic Avian Influenza (HPAI) H5N1 reached Aotearoa New Zealand in 2026, creating an urgent need to understand its likely impact on vulnerable bird populations before comprehensive monitoring data becomes available. Building on our earlier work, in which we correctly predicted the Brown Skua as the most likely vector of H5N1 into New Zealand, now that H5N1 has been confirmed, we extend the modelling to purely terrestrial native raptors. We use community science observations from eBird to infer a first estimate of mortality for the raptors K\u0101hu (Swamp Harrier), and K\u0101rearea (New Zealand Falcon) by comparison with ecologically similar overseas species affected by H5N1 and matched control species. In this paper we demonstrate one use case of how large-scale community science datasets can be repurposed to support rapid modelling and decision making when conventional data collection cannot keep pace with emerging events.
+  biography:
+  photo:
+
+- title: The European Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection
+  name:
+  time:
+  authors: Iacopo Colonnelli, Marco Aldinucci, Gabriel Antoniu, Rosa M. Badia, Silvina Caíno-Lores, Barbara Cantalupo, Michael R. Crusoe, Sagar Dolas, Rosa Filgueira, Daniele Gregori, Tim Kok, Jakob Lüttgau, Giuseppe Melfi, Raffaele Montella, Alberto Mulone, Simone Rizzo, Roberto Rocco, Marco Edoardo Santimaria, Gabriella Scipione, Raül Sirvent, Giuseppe Trotta and Marius van den Beek
+  institution:
+  abstract: The Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection (CoWORKER) is a European cross-disciplinary competence centre for large-scale scientific workflows that aims to improve the productivity, portability, and sustainability of complex HPC- and AI-enabled applications. By integrating technical services, co-design activities, training, and community-driven standards, CoWORKER will support the complete workflow lifecycle across heterogeneous computing environments, including HPC, cloud, AI, and quantum platforms. The initiative promotes interoperability, reproducibility, and open software ecosystems while strengthening European digital sovereignty. Through collaboration with the EuroHPC ecosystem and the broader scientific community, CoWORKER seeks to accelerate workflow adoption, software modernisation, and the long-term impact of workflow-based scientific applications.
   biography:
   photo:
 
@@ -52,6 +131,22 @@
   biography: Anirban Mandal is Director of the Network Research and Infrastructure Group at RENCI, University of North Carolina at Chapel Hill. His research spans distributed systems, scientific workflows, cloud and edge computing, networking, and research cyberinfrastructure, with an emphasis on adaptive resource management, resilient infrastructure, performance analysis, and anomaly detection. He leads and contributes to multi-institutional NSF and DOE projects exploring edge-to-core workflows, programmable network testbeds, and distributed agent-based workflow management. Mandal received his Ph.D. in Computer Science from Rice University in 2006 and his B.Tech. from IIT Bombay in 2000.
   photo: invited-mandal.png
 
+- title: Physics-Guided Deep Learning for Automated Cytoplasmic Wave Detection in Human Embryo Time-Lapse Sequences
+  name:
+  time:
+  authors: Antonio Junior Spoleto, Maria Concetta Vitale, Michele Di Capua, Riccardo Talevi, Mario Cimmino, Romualdo Polese, Angelo Ciaramella, Emanuel Di Nardo, Sergio Chirico and Luigi Ferraro
+  institution:
+  abstract: Cytoplasmic dynamics in the human zygote are a promising non-invasive biomarker of embryo competence, but the cytoplasmic wave (CW) is subtle, brief, and easily confused
+            with the global movement of the embryo and with illumination changes, so that reliable visual assessment is hard even for expert embryologists. We present a two-stage pipeline for the automatic
+            detection of the CW in time-lapse sequences. The first stage consists of a self-supervised spatial foundation model, a hybrid CNN–Transformer encoder pretrained on millions of embryo
+            frames, which segments the embryo in every frame. The resulting masks drive a rigid registration and photometric correction of the sequence, providing a spatially aligned and appearance-
+            normalized input for the second stage. Optical flow is computed on the registered segmented frames and concatenated with the corresponding frame intensities to construct an appearance–
+            motion tensor. The second stage extends the same backbone to the spatio-temporal domain and is trained from scratch on this tensor to classify the presence of the wave while reconstructing two 
+            physically grounded temporal descriptors:wave motion magnitude and directional entropy. These provide both auxiliary supervision during training and interpretable cues supporting the final prediction. 
+            On 53 held-out sequences the model attains a ROC-AUC of 0.90 and a macro-F1 of 0.82, and localizes the event in time.
+  biography:
+  photo:
+
 - title:
   name: Daniel S. Katz
   time:
@@ -60,8 +155,6 @@
   abstract:
   biography: Daniel S. Katz is chief scientist at the National Center for Supercomputing Applications (NCSA), research professor in the Siebel School of Computing and Data Science, and research professor in the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. His research interests include applications, algorithms, fault tolerance, and programming in parallel and distributed computing, including HPC and cloud, and policy issues, such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers.
   photo: invited-katz.png
-
-
 
 - title:
   name:
