@@ -13,34 +13,6 @@ title: Invited Speakers
     <div class="col-sm-12 col-md-12 invited">
         <div>
             <h3>{{ i.title }}</h3>
-            <!--<p style="color: #d67a92">{{ i.time }}<br />-->
-                <span style="font-size: 0.8em; color: #666; font-style: italic">Authors: {{ i.authors }}</span>
-            </p>
-        </div>
-        <div class="image">
-            <img src="{{ site.baseurl }}/images/invited/{{ i.photo }}" alt="{{ i.name }}" />
-            <strong>{{ i.name }}</strong><br />
-            {{ i.institution }}
-        </div>
-        {{ i.abstract | markdownify }}
-        <div class="biography">
-            <strong>Bio.</strong> {{ i.biography | markdownify }}
-        </div>
-        <br/>
-        {% if i.slides %}
-        <a class="small" href="{{i.slides}}">Presentation slides</a>
-        {% endif %}
-    </div>
-    {% endfor %}
-</div>
-
-{% assign ks = site.data.invited %}
-<div class="row">
-    {% for i in is %}
-    <a name="{{ i.id }}"></a>
-    <div class="col-sm-12 col-md-12 invited">
-        <div>
-            <h3>{{ i.title }}</h3>
             <p style="color: #d67a92">{{ i.time }}<br />
                 <span style="font-size: 0.8em; color: #666; font-style: italic">Authors: {{ i.authors }}</span>
             </p>
@@ -56,7 +28,7 @@ title: Invited Speakers
         </div>
         <br/>
         {% if i.slides %}
-        <a class="small" href="{{k.slides}}">Presentation slides</a>
+        <a class="small" href="{{i.slides}}">Presentation slides</a>
         {% endif %}
     </div>
     {% endfor %}
