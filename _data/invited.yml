@@ -147,12 +147,12 @@
   biography:
   photo:
 
-- title:
+- title: AI and the Journal of Open Source Software
   name: Daniel S. Katz
   time:
-  authors:
-  institution: National Center for Supercomputing Applications, USA
-  abstract:
+  authors: Daniel S. Katz, William Gearty, Evan Walter Clark Spotte-Smith and Kyle E. Niemeyer
+  institution: University of Illinois Urbana Champaign, USA
+  abstract: The Journal of Open Source Software (JOSS) is a diamond open-access journal with an open, collaborative, peer-review model for reusable open-source research software packages and associated short papers. Over its ten-year history, the journal has had a consistent aim of improving research software packages and providing scholarly credit to the people behind them. However, research culture and technology have changed over this time, most dramatically in the last few years with the rise of the use of Generative AI for both text and then software. This has led to both positive and negatives changes for JOSS, which are described in this talk.
   biography: Daniel S. Katz is chief scientist at the National Center for Supercomputing Applications (NCSA), research professor in the Siebel School of Computing and Data Science, and research professor in the School of Information Sciences (iSchool) at the University of Illinois Urbana-Champaign. His research interests include applications, algorithms, fault tolerance, and programming in parallel and distributed computing, including HPC and cloud, and policy issues, such as citation and credit mechanisms and practices associated with software and data, organization and community practices for collaboration, and career paths for computing researchers.
   photo: invited-katz.png
 
