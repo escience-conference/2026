@@ -1,6 +1,6 @@
 - title: Quantifying Non-Functional Requirement Costs in Continuum Workflows
   name: TBD
-  time: TBD
+  time:
   authors: Diana Carrizales-Espinoza, Dante D. Sanchez-Gallegos, Máximo Rodríguez Herrero, J.L. Gonzalez-Compean and Jesus Carretero
   institution:
   abstract: Modern scientific workflows in the computing continuum face significant security and reliability risks during cross-domain data movement. Tools for enforcing non-functional
@@ -19,7 +19,7 @@
 
 - title: CRESCO8:An Intel–Based HPC facility for nuclear fusion plasma reactors
   name: Guido Guarnieri
-  time: TBD
+  time:
   authors: Francesco Iannone and Guido Guarnieri
   institution: ENEA, Italy
   abstract: CRESCO8 is an HPC system based on Intel Xeon Emerald Rapids CPUs and Ponte Vecchio GPUs, designed to support large-scale simulations for magnetic confinement fusion and
@@ -32,11 +32,11 @@
     CRESCO8 serves as the reference supercomputing facility for the Divertor Tokamak Test (DTT) facility, providing a
     key computational infrastructure for integrated nuclear fusion research.
   biography: Guido Guarnieri is a researcher at ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development), based at the ENEA Research Center in Portici, Italy. His research focuses on High Performance Computing (HPC) and scientific computing, with particular expertise in the development and management of HPC infrastructures and their application to scientific and engineering problems. He has been involved in the development and operation of ENEA’s CRESCO supercomputing infrastructure and in several research activities exploiting HPC for computational science, energy, materials, environmental applications, and other multidisciplinary research areas. He is author and co-author of scientific publications and technical contributions in the field of HPC and computational science.
-  photo:
+  photo: invited-guarnieri.png
 
 - title: Collective Agentic Memory:Community Trust for the Agentic Web
   name: TBD
-  time: TBD
+  time:
   authors: Ryan Chard, Gus Ellerm, Alex Brace, Alok Kamatar, Suman Raj, Ian Foster and Kyle Chard
   institution: TBD
   abstract: Agents can now externalize experience into memory, consolidating historical traces into semantic knowledge and
@@ -53,7 +53,7 @@
 
 - title: A Metascience Infrastructure for Analysing Administrative Research-Funding Records
   name: TBD
-  time: TBD
+  time:
   authors: Rosa Filgueira, Spyro Nita, Laura Moran, Xavier McNally and Christopher Daley
   institution: TBD
   abstract: Administrative research-funding records contain valuable evidence for metascience and science-policy analysis,
@@ -68,7 +68,7 @@
 
 - title: The Social Life of Data:Finding Data that is Fit for Use
   name: Manish Parashar
-  time: TBD
+  time:
   authors: Manish Parashar
   institution: University of Utah, USA
   abstract: The current data renaissance, accelerated by advances in artificial intelligence, is transforming scientific discovery across disciplines. As data becomes increasingly abundant, the challenge is no longer simply finding data but finding data that is fit for use. Doing so requires looking beyond datasets themselves to the network of relationships that connect data to the people, workflows, publications, and institutions that produce and use it.
@@ -79,7 +79,7 @@
 
 - title: Building the e-Science Infrastructure for Societal Computing:Beyond Scientific Workflows
   name: TBD
-  time: TBD
+  time:
   authors: Ilkay Altintas and Melissa Floca
   institution: University of California, San Diego, USA
   abstract: Scientific workflows have been a defining contribution of e-Science, enabling complex computational investigations to become more automated, scalable, reproducible, and reusable. Together with advances in distributed computing, cyberinfrastructure, data management, and open science, workflows have transformed research across disciplines. However, many contemporary challenges, e.g., wildfire resilience, climate adaptation, public health, sustainable agriculture, and disaster preparedness, cannot be addressed through scientific workflows alone. Addressing them requires infrastructure that persistently connects observations, models, artificial intelligence, operational systems, institutions, and human expertise. This paper describes how such infrastructure can be built. We introduce societal computing as an evolution of e-Science that extends reproducible workflows into programmable innovation ecosystems, and identify the infrastructure characteristics it requires:composability, interoperability, extensibility, continuous learning, human-centered AI, trustworthy operation, and integration with real-world decision processes. We ground this account in the WIFIRE program, which over roughly fifteen years grew from data-driven scientific workflows for wildfire modeling into an operational ecosystem linking fire science, data, simulations, cyberinfrastructure, emergency agencies, utilities, and communities. Building on lessons from WIFIRE, the National Data Platform (NDP) generalizes these lessons into reusable, federated infrastructure—spanning data discovery, computational workspaces, collaborative environments, education, and AI-ready services that other domains can adopt to build their own societal computing ecosystems. Together, WIFIRE and NDP offer a concrete, tested blueprint for the infrastructure the next generation of e-Science needs:not only reproducible science, but sustained, reusable, and trustworthy pathways from scientific knowledge to actionable use of knowledge.
@@ -88,7 +88,7 @@
 
 - title: The STORI of Jub:Vectorizing Spatial–Temporal, Observational, Reference, and Interest Profiles for Enhanced LLM Agent Retrieval
   name: José Luis Gonzales Compeán
-  time: TBD
+  time:
   authors: José Luis Gonzales Compeán, José Carlos Morin-García, J.Pablo Ramírez-Bárcenas, Iván Lopez Arevalo, Martha Cordero-Oropeza and Heriberto Aguirre-Meneses
   institution: Cinvestav Tamaulipas, México
   abstract: This paper presents STORI-Jub, a data science service hub whose architecture is inspired by el Caracol, the ancient observatory in Chichen Itzá, Yucatán, alongside STORI, a novel retrieval methodology designed to enhance LLM agent performance. STORI vectorizes Spatial–Temporal, Observational, Reference, and Interest profiles, allowing agents within the Jub ecosystem to automatically ingest profiled vectors for tools and skills via the Model Context Protocol (MCP). This setup facilitates the recursive generation of massive, searchable information products and multi-view analytical perspectives. To evaluate STORI, we compared local Jub agents using conventional RAG (on-demand processing of raw and cured data) against agents leveraging STORI profile-based vectorization. Both configurations were tested on real-world case studies featuring disease mortality and toxic substance databases provided by participating healthcare institutions under Mexican government agency support (Secihti, MADTeC-2025-478). Agents were evaluated on efficacy and efficiency in handling heterogeneous queries and questions. Experimental results revealed that STORI improves retrieval accuracy and efficiency when conducting exploratory studies, prospective research, and situational decision-making.
@@ -97,7 +97,7 @@
 
 - title: Federated Learning on the American Science Cloud using APPFL
   name: TBD
-  time: TBD
+  time:
   authors: Zilinghan Li, Abhijit Chunduru, Harinarayan Krishnan, Eric Chagnon, Peter Nugent, Kibaek Kim and Ravi Madduri
   institution: TBD
   abstract: The American Science Cloud (AmSC), established under the Genesis Mission of the U.S. Department of Energy (DOE), aims to integrate DOE high-performance computing systems, experimental facilities, and data resources into a single, coordinated, AI-driven discovery platform. AmSC's early services focus on curated artifacts, such as gated inference access to hosted models, experiment tracking, and function execution across computing facilities. However, what these services lack is a means to train a model across organizational boundaries where data cannot be centralized due to policy, privacy, or scale. This is, by definition, a use case for federated learning (FL) and a growing class of scientific AI. In this paper, we show that this gap can be bridged by deploying the orchestration logic of the Advanced Privacy-Preserving Federated Learning (APPFL) framework as a scalable cloud service on top of the primitives AmSC already provides:project-scoped authentication that supports secure and reliable federation membership, function execution that drives distributed training at each site, experiment tracking that records round-level performance, and finally, the model-hosting and inference infrastructure that can be leveraged to distribute the federated trained models to authorized participants. We argue that offering federated computing as an important AmSC service would unlock privacy-constrained scientific collaborations, enabling public-private partnerships in model building while exercising and enhancing the platform's own federated infrastructure.
@@ -106,7 +106,7 @@
 
 - title: Citizen Science:Prediction to Arrival, Modeling H5N1 in New Zealand
   name: Kris Bubendorfer
-  time: TBD
+  time:
   authors: Kris Bubendorfer
   institution: Victoria University of Wellington, New Zealand
   abstract: Highly Pathogenic Avian Influenza (HPAI) H5N1 reached Aotearoa New Zealand in 2026, creating an urgent need to understand its likely impact on vulnerable bird populations before comprehensive monitoring data becomes available. Building on our earlier work, in which we correctly predicted the Brown Skua as the most likely vector of H5N1 into New Zealand, now that H5N1 has been confirmed, we extend the modelling to purely terrestrial native raptors. We use community science observations from eBird to infer a first estimate of mortality for the raptors K\u0101hu (Swamp Harrier), and K\u0101rearea (New Zealand Falcon) by comparison with ecologically similar overseas species affected by H5N1 and matched control species. In this paper we demonstrate one use case of how large-scale community science datasets can be repurposed to support rapid modelling and decision making when conventional data collection cannot keep pace with emerging events.
@@ -114,17 +114,17 @@
   photo:
 
 - title: The European Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection
-  name: TBD
-  time: TBD
+  name: Iacopo Colonnelli
+  time:
   authors: Iacopo Colonnelli, Marco Aldinucci, Gabriel Antoniu, Rosa M. Badia, Silvina Caíno-Lores, Barbara Cantalupo, Michael R. Crusoe, Sagar Dolas, Rosa Filgueira, Daniele Gregori, Tim Kok, Jakob Lüttgau, Giuseppe Melfi, Raffaele Montella, Alberto Mulone, Simone Rizzo, Roberto Rocco, Marco Edoardo Santimaria, Gabriella Scipione, Raül Sirvent, Giuseppe Trotta and Marius van den Beek
-  institution: TBD
+  institution: University of Turin, Italy
   abstract: The Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection (CoWORKER) is a European cross-disciplinary competence centre for large-scale scientific workflows that aims to improve the productivity, portability, and sustainability of complex HPC- and AI-enabled applications. By integrating technical services, co-design activities, training, and community-driven standards, CoWORKER will support the complete workflow lifecycle across heterogeneous computing environments, including HPC, cloud, AI, and quantum platforms. The initiative promotes interoperability, reproducibility, and open software ecosystems while strengthening European digital sovereignty. Through collaboration with the EuroHPC ecosystem and the broader scientific community, CoWORKER seeks to accelerate workflow adoption, software modernisation, and the long-term impact of workflow-based scientific applications.
   biography:
-  photo:
+  photo: invited-colonnelli.png
 
 - title: From Workflows to Swarms:Distributed Intelligence for a Resilient and Adaptive Computing Continuum
   name: Anirban Mandal
-  time: TBD
+  time:
   author: Anirban Mandal
   institution: Renaissance Computing Institute, UNC Chapel Hill, USA
   abstract: Scientific workflows increasingly span sensors, instruments, edge devices, programmable networks, clouds, and HPC facilities. In this computing continuum, resources appear and disappear, network conditions change, failures propagate across layers, and decisions often must be made close to where data is produced. Treating the continuum as a collection of static resources managed by a centralized scheduler is becoming increasingly inadequate.This talk traces a journey from conventional scientific workflows to adaptive edge-to-core execution and, ultimately, distributed, decentralized, multi-agent workflow management. I will describe experiments in dynamic computation placement, programmable network services, controlled anomaly injection, high-throughput data transport, and decentralized workload selection. A recurring theme is the role of research testbeds - particularly FABRIC - as "digital wind tunnels" where new infrastructure ideas can be subjected to realistic network conditions, controlled failures, and repeatable experiments before real-world deployment. I will outline a vision for an adaptive computing continuum in which distributed agents observe, negotiate, and act while remaining explainable, reproducible, and aligned with scientific intent.
@@ -133,7 +133,7 @@
 
 - title: Physics-Guided Deep Learning for Automated Cytoplasmic Wave Detection in Human Embryo Time-Lapse Sequences
   name: TBD
-  time: TBD
+  time:
   authors: Antonio Junior Spoleto, Maria Concetta Vitale, Michele Di Capua, Riccardo Talevi, Mario Cimmino, Romualdo Polese, Angelo Ciaramella, Emanuel Di Nardo, Sergio Chirico and Luigi Ferraro
   institution: TBD
   abstract: Cytoplasmic dynamics in the human zygote are a promising non-invasive biomarker of embryo competence, but the cytoplasmic wave (CW) is subtle, brief, and easily confused
@@ -149,7 +149,7 @@
 
 - title: AI and the Journal of Open Source Software
   name: Daniel S. Katz
-  time: TBD
+  time:
   authors: Daniel S. Katz, William Gearty, Evan Walter Clark Spotte-Smith and Kyle E. Niemeyer
   institution: University of Illinois Urbana Champaign, USA
   abstract: The Journal of Open Source Software (JOSS) is a diamond open-access journal with an open, collaborative, peer-review model for reusable open-source research software packages and associated short papers. Over its ten-year history, the journal has had a consistent aim of improving research software packages and providing scholarly credit to the people behind them. However, research culture and technology have changed over this time, most dramatically in the last few years with the rise of the use of Generative AI for both text and then software. This has led to both positive and negatives changes for JOSS, which are described in this talk.
