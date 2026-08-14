@@ -35,10 +35,10 @@
   photo: invited-guarnieri.png
 
 - title: Collective Agentic Memory:Community Trust for the Agentic Web
-  name: TBD
+  name: Kyle Chard
   time:
   authors: Ryan Chard, Gus Ellerm, Alex Brace, Alok Kamatar, Suman Raj, Ian Foster and Kyle Chard
-  institution: TBD
+  institution: University of Chicago and Argonne National Lab, USA
   abstract: Agents can now externalize experience into memory, consolidating historical traces into semantic knowledge and
             procedural shortcuts that persist between sessions. Such memory is typically private to a single agent. We argue that a critical class
             of agentic memory is inherently collective:what an ecosystem of heterogeneous, distributed agents, operating across environments
@@ -52,10 +52,10 @@
   photo:
 
 - title: A Metascience Infrastructure for Analysing Administrative Research-Funding Records
-  name: TBD
+  name: Rosa Filgueira
   time:
   authors: Rosa Filgueira, Spyro Nita, Laura Moran, Xavier McNally and Christopher Daley
-  institution: TBD
+  institution: University of St. Andrews, UK
   abstract: Administrative research-funding records contain valuable evidence for metascience and science-policy analysis,
             but they are rarely analysis-ready. They are distributed across heterogeneous tables and contain duplicated information, missing references, inconsistent identifiers, and limited metadata for comparing
             funding instruments. This paper presents a methodology for transforming UK Research and Innovation’s Gateway to
@@ -78,7 +78,7 @@
   photo:
 
 - title: Building the e-Science Infrastructure for Societal Computing:Beyond Scientific Workflows
-  name: TBD
+  name: Ilkay Altintas
   time:
   authors: Ilkay Altintas and Melissa Floca
   institution: University of California, San Diego, USA
