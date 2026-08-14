@@ -7,7 +7,7 @@ roles:
   - Tutorial Chairs
   - Poster Chairs
   - Proceedings Chairs
-  - Local Arrangements Chair
+  - Local Arrangements Chairs
   - #Media Chair
   - Web Chair
   - #Publicity Chair
@@ -90,8 +90,13 @@ organizers:
     institution: National Research Council, Italy
     photo: eScience-26-local-organizers-diego-romano.png
 
+  - name: Pasquale De Luca
+    role: Local Arrangements Chairs
+    institution: University of Naples "Parthenope", Italy
+    photo:
+
   - name: Emanuel di Nardo
-    role: Local Arrangements Chair
+    role: Local Arrangements Chairs
     institution: University of Naples "Parthenope", Italy
     photo: eScience-26-local-organizers-emanuel-di-nardo.png
 
