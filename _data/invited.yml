@@ -96,10 +96,10 @@
   photo:
 
 - title: Federated Learning on the American Science Cloud using APPFL
-  name: TBD
+  name: Ravi Madduri
   time:
   authors: Zilinghan Li, Abhijit Chunduru, Harinarayan Krishnan, Eric Chagnon, Peter Nugent, Kibaek Kim and Ravi Madduri
-  institution: TBD
+  institution: Argonne National Laboratory
   abstract: The American Science Cloud (AmSC), established under the Genesis Mission of the U.S. Department of Energy (DOE), aims to integrate DOE high-performance computing systems, experimental facilities, and data resources into a single, coordinated, AI-driven discovery platform. AmSC's early services focus on curated artifacts, such as gated inference access to hosted models, experiment tracking, and function execution across computing facilities. However, what these services lack is a means to train a model across organizational boundaries where data cannot be centralized due to policy, privacy, or scale. This is, by definition, a use case for federated learning (FL) and a growing class of scientific AI. In this paper, we show that this gap can be bridged by deploying the orchestration logic of the Advanced Privacy-Preserving Federated Learning (APPFL) framework as a scalable cloud service on top of the primitives AmSC already provides:project-scoped authentication that supports secure and reliable federation membership, function execution that drives distributed training at each site, experiment tracking that records round-level performance, and finally, the model-hosting and inference infrastructure that can be leveraged to distribute the federated trained models to authorized participants. We argue that offering federated computing as an important AmSC service would unlock privacy-constrained scientific collaborations, enabling public-private partnerships in model building while exercising and enhancing the platform's own federated infrastructure.
   biography:
   photo:
@@ -132,10 +132,10 @@
   photo: invited-mandal.png
 
 - title: Physics-Guided Deep Learning for Automated Cytoplasmic Wave Detection in Human Embryo Time-Lapse Sequences
-  name: TBD
+  name: Michele Di Capua
   time:
   authors: Antonio Junior Spoleto, Maria Concetta Vitale, Michele Di Capua, Riccardo Talevi, Mario Cimmino, Romualdo Polese, Angelo Ciaramella, Emanuel Di Nardo, Sergio Chirico and Luigi Ferraro
-  institution: TBD
+  institution: US srl, Italy
   abstract: Cytoplasmic dynamics in the human zygote are a promising non-invasive biomarker of embryo competence, but the cytoplasmic wave (CW) is subtle, brief, and easily confused
             with the global movement of the embryo and with illumination changes, so that reliable visual assessment is hard even for expert embryologists. We present a two-stage pipeline for the automatic
             detection of the CW in time-lapse sequences. The first stage consists of a self-supervised spatial foundation model, a hybrid CNN–Transformer encoder pretrained on millions of embryo
