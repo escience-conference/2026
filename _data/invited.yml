@@ -49,7 +49,7 @@
             reviewers’ scoring rationales. We evaluate Cairn’s reputation engine under adversarial simulation (liars, colluding cliques,
             camouflage, slander), benchmark discovery retrieval, and report a case study of rating heterogeneous agents in the wild.
   biography:
-  photo:
+  photo: invited-chard.png
 
 - title: A Metascience Infrastructure for Analysing Administrative Research-Funding Records
   name: Rosa Filgueira
@@ -64,7 +64,7 @@
             public dashboards:GTR Analyser, for research-question-driven comparison of funding instruments, and GTR Explorer, for
             inspection and export of enriched records. A case study compares applicant-led and thematic funding across councils, organisations, partners, places, and outcomes.
   biography:
-  photo:
+  photo: invited-filgueira.png
 
 - title: The Social Life of Data:Finding Data that is Fit for Use
   name: Manish Parashar
@@ -84,7 +84,7 @@
   institution: University of California, San Diego, USA
   abstract: Scientific workflows have been a defining contribution of e-Science, enabling complex computational investigations to become more automated, scalable, reproducible, and reusable. Together with advances in distributed computing, cyberinfrastructure, data management, and open science, workflows have transformed research across disciplines. However, many contemporary challenges, e.g., wildfire resilience, climate adaptation, public health, sustainable agriculture, and disaster preparedness, cannot be addressed through scientific workflows alone. Addressing them requires infrastructure that persistently connects observations, models, artificial intelligence, operational systems, institutions, and human expertise. This paper describes how such infrastructure can be built. We introduce societal computing as an evolution of e-Science that extends reproducible workflows into programmable innovation ecosystems, and identify the infrastructure characteristics it requires:composability, interoperability, extensibility, continuous learning, human-centered AI, trustworthy operation, and integration with real-world decision processes. We ground this account in the WIFIRE program, which over roughly fifteen years grew from data-driven scientific workflows for wildfire modeling into an operational ecosystem linking fire science, data, simulations, cyberinfrastructure, emergency agencies, utilities, and communities. Building on lessons from WIFIRE, the National Data Platform (NDP) generalizes these lessons into reusable, federated infrastructure—spanning data discovery, computational workspaces, collaborative environments, education, and AI-ready services that other domains can adopt to build their own societal computing ecosystems. Together, WIFIRE and NDP offer a concrete, tested blueprint for the infrastructure the next generation of e-Science needs:not only reproducible science, but sustained, reusable, and trustworthy pathways from scientific knowledge to actionable use of knowledge.
   biography:
-  photo:
+  photo: invited-altintas.png
 
 - title: The STORI of Jub:Vectorizing Spatial–Temporal, Observational, Reference, and Interest Profiles for Enhanced LLM Agent Retrieval
   name: José Luis Gonzales Compeán
