@@ -111,7 +111,7 @@
   institution: Victoria University of Wellington, New Zealand
   abstract: Highly Pathogenic Avian Influenza (HPAI) H5N1 reached Aotearoa New Zealand in 2026, creating an urgent need to understand its likely impact on vulnerable bird populations before comprehensive monitoring data becomes available. Building on our earlier work, in which we correctly predicted the Brown Skua as the most likely vector of H5N1 into New Zealand, now that H5N1 has been confirmed, we extend the modelling to purely terrestrial native raptors. We use community science observations from eBird to infer a first estimate of mortality for the raptors K\u0101hu (Swamp Harrier), and K\u0101rearea (New Zealand Falcon) by comparison with ecologically similar overseas species affected by H5N1 and matched control species. In this paper we demonstrate one use case of how large-scale community science datasets can be repurposed to support rapid modelling and decision making when conventional data collection cannot keep pace with emerging events.
   biography:
-  photo:
+  photo: invited-bubendorfer.png
 
 - title: The European Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection
   name: Iacopo Colonnelli
