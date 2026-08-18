@@ -22,7 +22,7 @@
 
 - title: A Journey Through the European HPC Infrastructure for Nuclear Fusion Energy Research
   name: Francesco Iannone
-  time: Oct. 1, 9.30
+  time: Oct. 2, 9.30
   chair: TBD
   institution: ENEA, Italy
   abstract: Since 2009, the European fusion research community has relied on dedicated High-Performance Computing (HPC) infrastructures specifically designed to support large-scale numerical simulations of magnetically confined plasmas. This long-standing strategy has evolved through successive generations of computing facilities, initially hosted at the Jülich Supercomputing Centre (JSC), later extended to the Broader Approach facility in Rokkasho, Japan, and more recently consolidated with the ENEA-CINECA collaboration, following a continuous growth in computational capability and system complexity. This progressive evolution has enabled increasingly detailed and physics-rich simulations, supporting the scientific challenges associated with the design and operation of present and future fusion reactors.
