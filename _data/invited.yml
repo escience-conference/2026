@@ -107,7 +107,7 @@
   institution: University of Chicago, USA
   abstract: Large language models have enabled the rapid development of persistent, autonomous AI agents, and such agents are increasingly embedded in scientific workflows:triaging literature, proposing hypotheses, steering instruments, and orchestrating computation. As these systems grow in complexity, a central architectural question arises:what principles should govern the introduction of agents? We argue that the defining structural feature of agentic systems is the introduction of epistemic commitments:evaluative judgments that may vary across invocations and that shape subsequent computation. When agents share conversational context rather than structured commitments, errors in reasoning propagate alongside conclusions, and costs amplify. We propose a framework for decomposing systems into agents that localizes epistemic commitments and isolates their effects, extending classical information hiding to commitment boundaries. Rather than organizing agents around functional roles or conversational patterns, we align architectural boundaries with commitment introduction and explicit ownership of structured commitments. This paper presents the principal ideas behind this framework, anti-criteria that identify when agents should not be introduced, and the open challenges that principled agent decomposition raises for the eScience community.
   biography:
-  photo:
+  photo: invited-kamatar.png
 
 - title: AI and the Journal of Open Source Software
   name: Daniel S. Katz
