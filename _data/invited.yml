@@ -74,6 +74,15 @@
     She was previously the Group Leader for the Systems Research Group (SRG) at the University of St Andrews. She was also awarded with the UK Young Academy membership.
   photo: invited-filgueira.png
 
+- title: On the Criteria To Be Used in Decomposing Scientific Systems into Agents
+  name: Ian Foster
+  time:
+  authors: Kyle Chard, Ian Foster, Alok Kamatar and Mansi Sakarvadia
+  institution: University of Chicago, USA
+  abstract: Large language models have enabled the rapid development of persistent, autonomous AI agents, and such agents are increasingly embedded in scientific workflows:triaging literature, proposing hypotheses, steering instruments, and orchestrating computation. As these systems grow in complexity, a central architectural question arises:what principles should govern the introduction of agents? We argue that the defining structural feature of agentic systems is the introduction of epistemic commitments:evaluative judgments that may vary across invocations and that shape subsequent computation. When agents share conversational context rather than structured commitments, errors in reasoning propagate alongside conclusions, and costs amplify. We propose a framework for decomposing systems into agents that localizes epistemic commitments and isolates their effects, extending classical information hiding to commitment boundaries. Rather than organizing agents around functional roles or conversational patterns, we align architectural boundaries with commitment introduction and explicit ownership of structured commitments. This paper presents the principal ideas behind this framework, anti-criteria that identify when agents should not be introduced, and the open challenges that principled agent decomposition raises for the eScience community.
+  biography: Ian Foster is Senior Scientist and Distinguished Fellow, and also director of the Data Science and Learning Division, at Argonne National Laboratory, and the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago. Ian received a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research deals with distributed, parallel, and data-intensive computing technologies, and innovative applications of those technologies to scientific problems in such domains as materials science, climate change, and biomedicine. Foster is a fellow of the AAAS, ACM, BCS, and IEEE, and an Office of Science Distinguished Scientists Fellow.
+  photo: invited-foster.png
+
 - title: The STORI of Jub:Vectorizing Spatial–Temporal, Observational, Reference, and Interest Profiles for Enhanced LLM Agent Retrieval
   name: José Luis Gonzales Compeán
   time:
@@ -99,15 +108,6 @@
     key computational infrastructure for integrated nuclear fusion research.
   biography: Guido Guarnieri is a researcher at ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development), based at the ENEA Research Center in Portici, Italy. His research focuses on High Performance Computing (HPC) and scientific computing, with particular expertise in the development and management of HPC infrastructures and their application to scientific and engineering problems. He has been involved in the development and operation of ENEA’s CRESCO supercomputing infrastructure and in several research activities exploiting HPC for computational science, energy, materials, environmental applications, and other multidisciplinary research areas. He is author and co-author of scientific publications and technical contributions in the field of HPC and computational science.
   photo: invited-guarnieri.png
-
-- title: On the Criteria To Be Used in Decomposing Scientific Systems into Agents
-  name: Alok Kamatar
-  time:
-  authors: Kyle Chard, Ian Foster, Alok Kamatar and Mansi Sakarvadia
-  institution: University of Chicago, USA
-  abstract: Large language models have enabled the rapid development of persistent, autonomous AI agents, and such agents are increasingly embedded in scientific workflows:triaging literature, proposing hypotheses, steering instruments, and orchestrating computation. As these systems grow in complexity, a central architectural question arises:what principles should govern the introduction of agents? We argue that the defining structural feature of agentic systems is the introduction of epistemic commitments:evaluative judgments that may vary across invocations and that shape subsequent computation. When agents share conversational context rather than structured commitments, errors in reasoning propagate alongside conclusions, and costs amplify. We propose a framework for decomposing systems into agents that localizes epistemic commitments and isolates their effects, extending classical information hiding to commitment boundaries. Rather than organizing agents around functional roles or conversational patterns, we align architectural boundaries with commitment introduction and explicit ownership of structured commitments. This paper presents the principal ideas behind this framework, anti-criteria that identify when agents should not be introduced, and the open challenges that principled agent decomposition raises for the eScience community.
-  biography:
-  photo: invited-kamatar.png
 
 - title: AI and the Journal of Open Source Software
   name: Daniel S. Katz
