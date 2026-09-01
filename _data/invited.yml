@@ -62,7 +62,7 @@
   name: Rosa Filgueira
   time:
   authors: Rosa Filgueira, Spyro Nita, Laura Moran, Xavier McNally and Christopher Daley
-  institution: University of St. Andrews, UK
+  institution: University of Edinburgh, UK
   abstract: Administrative research-funding records contain valuable evidence for metascience and science-policy analysis,
     but they are rarely analysis-ready. They are distributed across heterogeneous tables and contain duplicated information, missing references, inconsistent identifiers, and limited metadata for comparing
     funding instruments. This paper presents a methodology for transforming UK Research and Innovation’s Gateway to
@@ -70,8 +70,8 @@
     extension, loading-time repairs, enrichment heuristics, and materialised analytical tables. The resulting database supports two
     public dashboards:GTR Analyser, for research-question-driven comparison of funding instruments, and GTR Explorer, for
     inspection and export of enriched records. A case study compares applicant-led and thematic funding across councils, organisations, partners, places, and outcomes.
-  biography: Rosa Filgueira is an Honorary Staff member at the School of Computer Science. Before that, she was working as an Assistant Professor in Heriot Watt, as a Vice President Applied Researcher at JPMorgan Chase, as a Research Fellow at the EPCC (University of Edinburgh), as a Senior Data Scientist at the British Geological Survey, as a Senior Research Associate at the Data Intensive Research Group of the University Edinburgh and as a Research Assistant and Teaching Fellow at the Computer Architecture Group of University Carlos III Madrid.
-    She was previously the Group Leader for the Systems Research Group (SRG) at the University of St Andrews. She was also awarded with the UK Young Academy membership.
+  biography: I am a Chancellor’s Fellow at EPCC, University of Edinburgh, specialising in the development of intelligent and adaptive systems for data-intensive computing. Previously, I was a Lecturer at the University of St Andrews, where I led the Systems Research Group.
+             My research focuses on abstracting application-specific details from execution, enabling domain experts to make use of complex computational tools without requiring deep knowledge of the underlying platforms. This facilitates the seamless transfer of applications across different computing environments while preserving functionality, and supports the discoverability, accessibility, and reusability of software components. I am currently developing tools that use NLP and semantic technologies to provide insights into software repositories and support the exploration of innovative components and workflows, with the aim of improving the reusability and understandability of scientific software. In parallel, my research applies text mining, NLP, HPC, and deep learning techniques across Digital Humanities and Metascience, including scientometric and data-driven approaches to extracting insights from historical texts, analysing cultural-event data, understanding research and innovation systems, and supporting evidence-informed decision-making.
   photo: invited-filgueira.png
 
 - title: On the Criteria To Be Used in Decomposing Scientific Systems into Agents
