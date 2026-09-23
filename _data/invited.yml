@@ -7,16 +7,16 @@
   biography: İlkay Altıntaş is the Chief Data Science Officer at the San Diego Supercomputer Center and a Founding Faculty Fellow of the Halıcıoğlu Data Science Institute at the University of California San Diego. Her research focuses on scientific workflows, composable computing and data platforms for AI that accelerate scientific discovery and address societal challenges through scalable, collaborative innovation.
   photo: invited-altintas.png
 
-- title: Citizen Science:Prediction to Arrival, Modeling H5N1 in New Zealand
+- title: Community Science:Prediction to Arrival, Modeling H5N1 in New Zealand
   name: Kris Bubendorfer
   time:
-  authors: Kris Bubendorfer
+  authors: Kris Bubendorfer and Richard Littauer
   institution: Victoria University of Wellington, New Zealand
   abstract: Highly Pathogenic Avian Influenza (HPAI) H5N1 reached Aotearoa New Zealand in 2026, creating an urgent need to understand its likely impact on vulnerable bird populations before comprehensive monitoring data becomes available. Building on our earlier work, in which we correctly predicted the Brown Skua as the most likely vector of H5N1 into New Zealand, now that H5N1 has been confirmed, we extend the modelling to purely terrestrial native raptors. We use community science observations from eBird to infer a first estimate of mortality for the raptors K\u0101hu (Swamp Harrier), and K\u0101rearea (New Zealand Falcon) by comparison with ecologically similar overseas species affected by H5N1 and matched control species. In this paper we demonstrate one use case of how large-scale community science datasets can be repurposed to support rapid modelling and decision making when conventional data collection cannot keep pace with emerging events.
   biography: Kris Bubendorfer is an associate professor at the school of engineering and computer science. He gained his qualification from Victoria University of Wellington. His current research projects include Social Cloud Computing, Economic resource allocation, Digital Provenance, and Reputation
   photo: invited-bubendorfer.png
 
-- title: Collective Agentic Memory:Community Trust for the Agentic Web
+- title: Reputation as Community Memory for the Agentic Web
   name: Kyle Chard
   time:
   authors: Ryan Chard, Gus Ellerm, Alex Brace, Alok Kamatar, Suman Raj, Ian Foster and Kyle Chard
@@ -36,7 +36,7 @@
 - title: The European Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection
   name: Iacopo Colonnelli
   time:
-  authors: Iacopo Colonnelli, Marco Aldinucci, Gabriel Antoniu, Rosa M. Badia, Silvina Caíno-Lores, Barbara Cantalupo, Michael R. Crusoe, Sagar Dolas, Rosa Filgueira, Daniele Gregori, Tim Kok, Jakob Lüttgau, Giuseppe Melfi, Raffaele Montella, Alberto Mulone, Simone Rizzo, Roberto Rocco, Marco Edoardo Santimaria, Gabriella Scipione, Raül Sirvent, Giuseppe Trotta and Marius van den Beek
+  authors: Iacopo Colonnelli, Marco Aldinucci, Gabriel Antoniu, Rosa M. Badia, Sara Bozzi, Silvina Caíno-Lores, Barbara Cantalupo, Michael R. Crusoe, Sagar Dolas, Rosa Filgueira, Daniele Gregori, Tim Kok, Jakob Lüttgau, Giuseppe Melfi, Raffaele Montella, Alberto Mulone, Silvana Muscella, Simone Rizzo, Roberto Rocco, Marco Edoardo Santimaria, Gabriella Scipione, Raül Sirvent, Giuseppe Trotta, Marius van den Beek and Marco Verdicchio
   institution: University of Turin, Italy
   abstract: The Centre of Excellence on Workflow Orchestration, Regularisation, Knowledge Enablement, and Retrospection (CoWORKER) is a European cross-disciplinary competence centre for large-scale scientific workflows that aims to improve the productivity, portability, and sustainability of complex HPC- and AI-enabled applications. By integrating technical services, co-design activities, training, and community-driven standards, CoWORKER will support the complete workflow lifecycle across heterogeneous computing environments, including HPC, cloud, AI, and quantum platforms. The initiative promotes interoperability, reproducibility, and open software ecosystems while strengthening European digital sovereignty. Through collaboration with the EuroHPC ecosystem and the broader scientific community, CoWORKER seeks to accelerate workflow adoption, software modernisation, and the long-term impact of workflow-based scientific applications.
   biography: Iacopo Colonnelli is an Assistant Professor in the Department of Computer Science at the University of Turin, Italy. He is a member of the HiPEAC community, a member of the CINI HPC-KTT National Laboratory, serves on the Technical Committee of the Common Workflow Language (CWL), and is a founding coordinator of the CWL4HPC working group. He earned his Ph.D. in Modeling and Data Science with honors from the University of Turin, where his thesis on novel workflow models for heterogeneous distributed systems received the ITADATA 2023 Best PhD Thesis Award. He has co-authored over 40 peer-reviewed publications in national and international journals and conferences, and has contributed to more than 10 funded research projects. He is currently the Coordinator of the CoWORKER European centre of excellence (total budget:€3M) and the local Principal Investigator for the DARE European project (total budget:€240M). He is also the designer and maintainer of the StreamFlow workflow manager (120+ citations on Google Scholar as of May 2026, recognized as an emerging technology by the EC Innovation Radar initiative) and has developed several other frameworks and libraries for workflow management and high-performance computing. His research interests include workflow modeling and management in heterogeneous distributed architectures, high-performance computing and I/O, distributed confidential computing, and large-scale data science.
@@ -83,7 +83,7 @@
   biography: Ian Foster is Senior Scientist and Distinguished Fellow, and also director of the Data Science and Learning Division, at Argonne National Laboratory, and the Arthur Holly Compton Distinguished Service Professor of Computer Science at the University of Chicago. Ian received a BSc degree from the University of Canterbury, New Zealand, and a PhD from Imperial College, United Kingdom, both in computer science. His research deals with distributed, parallel, and data-intensive computing technologies, and innovative applications of those technologies to scientific problems in such domains as materials science, climate change, and biomedicine. Foster is a fellow of the AAAS, ACM, BCS, and IEEE, and an Office of Science Distinguished Scientists Fellow.
   photo: invited-foster.png
 
-- title: The STORI of Jub:Vectorizing Spatial–Temporal, Observational, Reference, and Interest Profiles for Enhanced LLM Agent Retrieval
+- title: The STORI of Jub:Vectorizing Spatio-Temporal, Observational, Reference, and Interest Profiles for Enhanced LLM Agent Retrieval
   name: José Luis Gonzales Compeán
   time:
   authors: José Luis Gonzales Compeán, José Carlos Morin-García, J.Pablo Ramírez-Bárcenas, Iván Lopez Arevalo, Martha Cordero-Oropeza and Heriberto Aguirre-Meneses
